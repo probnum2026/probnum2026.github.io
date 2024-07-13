@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+    top: 0;
+}
+
+.headerImage { 
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar {
+    background-color: #28A8A8;
+}
