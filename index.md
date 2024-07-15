@@ -3,6 +3,10 @@ layout: default
 title: 'ProbNum25'
 ---
 
+ProbNum is a gathering of researchers working on algorithms that quantify or utilize computational uncertainty, i.e. the error arising when a mathematical task is performed on a discrete computer in finite time. Of particular interest are numerical algorithms for use within machine learning; artificial intelligence; scientific simulation, and computational statistics, due to these communities' innate interest in uncertainty quantification. 
+
+The goal of the meeting is an open exchange of ideas, aiming to embrace computational uncertainty to make computations faster, more reliable, and easier to design and use. 
+
 # About
 
 ProbNum25 will be held at EURECOM in Nice, France from 1-3 September 2025.
