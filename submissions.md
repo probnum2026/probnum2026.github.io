@@ -5,10 +5,10 @@ title: "ProbNum25 : Submissions"
 
 # Proceedings of ProbNum25
 
-ProbNum25 will have a proceedings edition in the Proceedings of Machine Learning Research (PMLR).
+ProbNum25 will have a proceedings. We are expecting to host them as an edition in the Proceedings of Machine Learning Research (PMLR).
 Talks at ProbNum25 will be selected from among the submissions.
 Submissions can be up to 8 pages, with subjects broadly in the area of probabilistic computation.
-We welcome and encourage shorter papers.
+We also welcome and encourage shorter papers.
 
 Timescales for submitting are anticipated to be as follows, though these are subject to revision:
 
@@ -17,3 +17,4 @@ Timescales for submitting are anticipated to be as follows, though these are sub
 - **Responses Due** 18 April 2025.
 - **Decisions** 14 May 2025.
 
+Full details, including style files, will be published here in due course.
