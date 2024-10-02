@@ -16,7 +16,7 @@ As our community grows, we are moving towards a broader conference format: ProbN
 
 ## Organising Committee
 
-- Motonobu Kanagawa (Main organiser)
+- Motonobu Kanagawa
 - Jon Cockayne
 - Alexandra Gessner
 - Philipp Hennig
