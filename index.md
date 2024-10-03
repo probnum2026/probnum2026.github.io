@@ -5,7 +5,7 @@ title: 'International Conference on Probabilistic Numerics (ProbNum25)'
 
 The **International Conference on Probabilistic Numerics** (**ProbNum**) is a gathering of researchers working on algorithms that quantify or utilize **computational uncertainty**, i.e. the error arising when a mathematical task is performed on a discrete computer in finite time. 
 
-Of particular interest are numerical algorithms for use within **machine learning**; **artificial intelligence**; **scientific simulation**, and **computational statistics**, due to these communities' innate interest in uncertainty quantification. 
+Of particular interest are numerical algorithms for use within **machine learning**; **artificial intelligence**; **scientific simulation**, and **computational statistics**, due to these communities' innate interest in **uncertainty quantification**. 
 
 The goal of the conference is an open exchange of ideas, aiming to embrace computational uncertainty to make **computations** **faster**, **more reliable**, and **easier to design and use**. 
 
