@@ -27,9 +27,9 @@ Consider accommodations in:
 
 ---
 
-## **Antibes**
+## **Juan les Pins**
 
-![Beautiful Juan-les-Pins](Juan-les-Pins-2024.jpeg)
+<img src="Juan-les-Pins-2024.jpeg" alt="Beautiful Antibes" width="600" />
 
 
 ---
