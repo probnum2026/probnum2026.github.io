@@ -13,7 +13,7 @@ Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
 
 ---
 
-## **Getting to Eurecom**
+### How to Come to EURECOM
 
 - **By Air**: Arrive at **Nice Côte d'Azur Airport** (approximately 20 km from Eurecom).
 - **By Train**: Nearest stations are **Antibes** and **Juan-les-Pins**.
@@ -21,7 +21,7 @@ Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
 
 ---
 
-## **Where to Stay**
+### **Where to Stay**
 
 Consider accommodations in:
 
