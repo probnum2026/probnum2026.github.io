@@ -4,4 +4,5 @@ title: "ProbNum25 : Registration"
 ---
 
 # Registration
-Registration details, including pricinc, will be announced in the near future.
+- Registration details will be announced soon.
+- We expect to open registrations on 14th May 2025.
