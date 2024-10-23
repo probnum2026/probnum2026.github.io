@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ProbNum25 : Venue"
-header_image: EURECOM-building.jpg
+header_image: Juan2.jpg
 ---
 ## Venue
 
