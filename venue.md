@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ProbNum25 : Venue"
-header_image: Juan-les-Pins-2024.jpeg
+header_image: Juan2.jpg
 ---
 ## Venue
 
