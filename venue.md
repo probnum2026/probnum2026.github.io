@@ -15,29 +15,20 @@ Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
 
 ### How to Come to EURECOM
 
-- **By Air**: Arrive at **Nice Côte d'Azur Airport** (approximately 20 km from Eurecom).
-- **By Train**: Nearest stations are **Antibes** and **Juan-les-Pins**.
-- **By Bus**: Local buses connect Eurecom with nearby cities.
+- The nearest airport is **Nice Côte d'Azur Airport** (approximately 20 km from EURECOM).
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4524.705316946571!2d7.206993492275954!3d43.66500043440579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cdd11897ae99f3%3A0x80532b1cc923c1b4!2sNice%20C%C3%B4te%20d&#39;Azur%20Airport!5e1!3m2!1sen!2sfr!4v1729699815526!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+- For accommodation, we recommend the coastal cities of **Antibes** and **Juan-les-Pins**, from where buses are available (30 to 40 mins). 
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d72494.99709426609!2d7.022442141853816!3d43.58225685915261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cdd5459e5a91a9%3A0x40819a5fd979fb0!2sAntibes!5e1!3m2!1sen!2sfr!4v1729699434306!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+-  **Nice** is another good option, but buses may take longer. 
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80635.28546958206!2d7.159151599490324!3d43.707696864285836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cdd0106a852d31%3A0x40819a5fd979a70!2sNice!5e1!3m2!1sen!2sfr!4v1729699537165!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+-  While there are hotels near EURECOM in Sophia Antipolis, the above coastal cities are recommended for enjoying the beautiful French Riviera! (and there are more shops and restaurants there)
+- More practical information will be provided when the time approach.
 
----
+ 
 
-### **Where to Stay**
-
-Consider accommodations in:
-
-- **Antibes**: A historic town with charming old streets and beaches.
-- **Juan-les-Pins**: Known for its sandy beaches and vibrant nightlife.
-- **Nice**: Offers cultural attractions, dining, and shopping.
-
----
-
-## **Juan les Pins**
-
-<img src="Juan-les-Pins-2024.jpeg" alt="Beautiful Antibes" width="600" />
+ 
 
 
----
 
-We look forward to welcoming you to **ProbNum25**!
-
----
+ 
+ 
