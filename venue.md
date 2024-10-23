@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layout-venue
 title: "ProbNum25 : Venue"
 ---
 ## Venue
