@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "ProbNum25 : Registration"
+header_image: EURECOM-building.jpg
 ---
 
 # Registration
