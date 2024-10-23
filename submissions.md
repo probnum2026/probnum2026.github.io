@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ProbNum25 : Submissions"
-header_image: EURECOM-building.jpg
+header_image: eurecom2.jpg
 ---
 
 
