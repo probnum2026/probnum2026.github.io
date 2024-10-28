@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ProbNum25 : Registration"
-header_image: Antibes (2) (1).jpg
+header_image: Juan-les-Pins-2024 (1).jpeg
 ---
 
 # Registration
