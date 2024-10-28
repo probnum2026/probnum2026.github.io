@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'ProbNum25'
-header_image: EURECOM-building.jpg
+header_image: EURECOM-building-updated.jpg
 ---
 
 The **International Conference on Probabilistic Numerics** (**ProbNum**) is a gathering of researchers working on algorithms that quantify or utilize **computational uncertainty**, i.e. the error arising when a mathematical task is performed on a discrete computer in finite time. 
