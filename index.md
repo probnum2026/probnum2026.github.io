@@ -16,7 +16,7 @@ ProbNum25 will be held at **EURECOM** near Nice in southern France from **1-3 Se
 
 --- 
 ### Publications as PMLR Proceedings
-ProbNum25 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)** ([Details](/submissions.html)).
+ProbNum25 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**. The submission deadline is currently scheduled for **5th March 2025** ([Details](/submissions.html)).
 
 
 ---
@@ -28,7 +28,7 @@ ProbNum25 aims to be an inclusive, enjoyable venue for the discussion, dissemina
 
 ---
 ### Past Meetings
-ProbNum25 is the latest edition of a series of conferences/workshops/summer schools on Probabilistic Numerics since 2012. Past events can be found [here](https://www.probabilistic-numerics.org/meetings/).
+ProbNum25 is the latest edition of a series of events on Probabilistic Numerics since 2012. Past events can be found [here](https://www.probabilistic-numerics.org/meetings/).
 
 ---
 ### Organisers  
