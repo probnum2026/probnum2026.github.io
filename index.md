@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'ProbNum25'
+title: 'ProbNum25 (1-3 Sept 2025)'
 header_image: EURECOM-building-updated.jpg
 ---
 
@@ -10,19 +10,24 @@ Of particular interest are numerical algorithms for use within **machine learnin
 
 The goal of the conference is an open exchange of ideas, aiming to embrace computational uncertainty to make **computations** **faster**, **more reliable**, and **easier to design and use**. 
 
-### Dates and Venue 
+--- 
+### Venue and Dates
 
-ProbNum25 will be held at [EURECOM](https://www.eurecom.fr/en) in [Sophia Antipolis](https://en.wikipedia.org/wiki/Sophia_Antipolis) near Nice, France, from **1-3 September 2025**.
+ProbNum25 will be held at **EURECOM** near Nice in southern France from **1-3 September 2025**. [Details](/venue.html)
 
-### Registration
-The event is open to all. We expect to open registrations on **14th May 2025**.
+--- 
+### Publications as PMLR Proceedings
+ProbNum25 calls for papers that will be published as **PMLR Proceedings**. [Details](/submissions.html).
 
-### Proceedings and Call for Papers
-As our community grows, we are moving towards a broader conference format: ProbNum25 will have **proceedings**; you can find more details about this [here](/submissions.html).
-
-### Organising Committee
+---
+### Organisers  
 
 - [Motonobu Kanagawa](https://sites.google.com/site/motonobukanagawa/) (EURECOM, France)
 - [Jon Cockayne](https://joncockayne.me/) (University of Southampton, UK)
 - [Alexandra Gessner](https://github.com/alpiges) (Astrazeneca, Spain)
 - [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/) (University of Tuebingen, Germany)
+
+---
+### Past Meetings
+ProbNum25 is the latest edition of a series of conferences/workshops/summer schools on Probabilistic Numerics since 2012. Past events can be found [here](https://www.probabilistic-numerics.org/meetings/).
+
