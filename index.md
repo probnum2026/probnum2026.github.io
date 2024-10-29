@@ -1,8 +1,9 @@
 ---
 layout: default
-title: 'ProbNum25 (1-3 Sept 2025)'
+title: 'ProbNum25'
 header_image: EURECOM-building-updated.jpg
 ---
+# ProbNum25: The International Conference on Probabilistic Numerics (1-3 September 2025) 
 
 The **International Conference on Probabilistic Numerics** (**ProbNum**) is a gathering of researchers working on algorithms that quantify or utilize **computational uncertainty**, i.e. the error arising when a mathematical task is performed on a discrete computer in finite time. 
 
