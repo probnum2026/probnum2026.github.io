@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ProbNum25 : Submissions"
-header_image: eurecom2.jpg
+header_image: juan3.jpg
 ---
 
 
