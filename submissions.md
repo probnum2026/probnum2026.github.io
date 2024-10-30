@@ -10,7 +10,7 @@ header_image: juan3.jpg
 _Full details, including style files, will be published here in due course._
 
 
-ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files. The submission deadline is scheduled for the **5th of March 2025**.
+ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **5th of March 2025**.
 Subject areas are **methods, theory and applications** of probabilistic numerics. 
 The authors of accepted papers will present talks and/or posters at ProbNum25. 
 Details are as follows.
@@ -30,12 +30,25 @@ The current schedule, subject to revision, for submission and the review process
 
 ProbNum25 welcomes submissions on methods, theory and applications in Probabilistic Numerics or broader fields involving probabilistic quantification of estimation errors of deterministic quantities (computational uncertainties). Examples of topics are as follows.
 
-- Probabilistic numerical methods
-- Applications of probabilistic numerics
-- Decision-making under uncertainty
-- Uncertainty quantification
-- Spatiotemporal modeling
-- Sequential experimental design
+**Methods (Algorithms)**
+- Probabilistic (Bayesian or non-Bayesian) numerical methods.
+  - e.g., Gaussian process interpolation, Bayesian quadrature, Bayesian optimisation, probabilistic solvers of ODEs or PDEs, probabilistic numerical linear algebra.
+- Black-box probabilistic numerics.
+- Reproducing kernel-based methods for numerical analysis (corresponding to probabilistic numerical methods)
+  - e.g., kernel interpolation, kernel quadrature, maximum mean discrepancy.
+
+**Theory**
+- Error bounds and convergence rates of probabilistic numerical methods.
+- Well-calibratedness of uncertainty estimates. 
+- Properties of hypothesis spaces (e.g., Gaussian processes, reproducing kernel Hilbert spaces).
+
+**Applications**
+- Computation-aware uncertainty quantification for
+  -  simulation, including the solution of (partial, ordinary, stochastic, and differential algebraic) differential equations for time-evolving processes.
+  -  deep learning-based simulation methods, superresolution methods, diffusion models, neural operators, and other algorithms aiming to functionally replace numerical computation.
+- Computation-aware optimal planning and decision-making under uncertainty.
+- Inverse problems and data assimilation.
+- Applications in science and engineering, such as computational fluid mechanics, astronomy, climate science, and finance.
 
 ---
 ### Submission Instructions
