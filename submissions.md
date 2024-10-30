@@ -28,8 +28,7 @@ The current schedule, subject to revision, for submission and the review process
 ---
 ### Subject Areas
 
-Subject areas of submission are methods, theory and applications of Probabilistic Numerics, or any topics involving uncertainty quantification of deterministic errors.
-For example:
+ProbNum25 welcomes submissions on methods, theory and applications in Probabilistic Numerics or broader fields involving probabilistic quantification of estimation errors of deterministic quantities (computational uncertainties). Examples of topics are as follows.
 
 - Probabilistic numerical methods
 - Applications of probabilistic numerics
