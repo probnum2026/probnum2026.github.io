@@ -10,8 +10,8 @@ header_image: juan3.jpg
 _Full details, including style files, will be published here in due course._
 
 
-ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to 8 pages (or shorter) using dedicated style files. Subject areas are methods, theory and applications of probabilistic numerics, as detailed below. 
-
+ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to 8 pages (or shorter) using dedicated style files. The submission deadline is currently scheduled for the 5th of March 2025.
+Subject areas are methods, theory and applications of probabilistic numerics, as detailed below. 
 The authors of accepted papers will present talks and/or posters at ProbNum25. 
 
 ---
