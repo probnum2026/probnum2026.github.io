@@ -9,23 +9,23 @@ header_image: juan3.jpg
 
 _Full details, including style files, will be published here in due course._
 
----
-### Proceedings of ProbNum25
 
-ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. Talks and/or posters at ProbNum25 will be presented by the authors of accepted papers. A submission should up to 8 pages (or shorter) using dedicated style files. 
-Subject areas are methods, theory and applications of probabilistic numerics, as detailed below. 
+ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to 8 pages (or shorter) using dedicated style files. Subject areas are methods, theory and applications of probabilistic numerics, as detailed below. 
 
----
-### Important dates
-Timescales for submitting are anticipated to be as follows, though these are subject to revision:
-
-- **Submission Deadline** 5th March 2025.
-- **Reviews Released** 9th April 2025.
-- **Responses Due** 18 April 2025.
-- **Decisions** 14 May 2025.
+The authors of accepted papers will present talks and/or posters at ProbNum25. 
 
 ---
-### Subject areas
+### Key Dates
+
+The current schedule, subject to revision, for submission and the review process is as follows. 
+
+- **Submission Deadline:** 5th March 2025.
+- **Reviews Released:** 9th April 2025.
+- **Responses Due:** 18th April 2025.
+- **Decisions:** 14th May 2025.
+
+---
+### Subject Areas
 
 We welcome submissions in areas including but not limited to:
 
@@ -37,7 +37,7 @@ We welcome submissions in areas including but not limited to:
 - Sequential experimental design
 
 ---
-### Submission instructions
+### Submission Instructions
 
 **Page limit**  
 Submissions are full papers limited to up **8 pages** excluding references, acknowledgements, and appendices.
