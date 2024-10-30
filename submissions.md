@@ -12,10 +12,8 @@ _Full details, including style files, will be published here in due course._
 ---
 ### Proceedings of ProbNum25
 
-ProbNum25 will have a proceedings issue, published in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press).
-Talks at ProbNum25 will be selected from among the submissions.
-Submissions can be up to 8 pages, with subjects broadly in the area of probabilistic computation.
-We also welcome and encourage shorter papers.
+ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. Talks and/or posters at ProbNum25 will be presented by the authors of accepted papers. A submission should up to 8 pages (or shorter) using dedicated style files. 
+Subject areas are methods, theory and applications of probabilistic numerics, as detailed below. 
 
 ---
 ### Important dates
