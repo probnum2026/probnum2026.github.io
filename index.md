@@ -3,7 +3,9 @@ layout: default
 title: 'ProbNum25'
 header_image: EURECOM-building-updated.jpg
 ---
-## ProbNum25: The International Conference on Probabilistic Numerics (1-3 September 2025, EURECOM, France) 
+## ProbNum25: The International Conference on Probabilistic Numerics
+### 1st - 3rd September 2025, EURECOM, France
+
 
 **ProbNum25** is an international conference on **Probabilistic Numerics**, methods for statistically solving numerical problems (optimisation, integration, solving differential equations) and probabilistically quantifying the numerical errors as computational uncertainties. Probabilistic Numerics make numerical algorithms faster, more reliable, and easier to design and use. They are developed and used in machine learning, artificial intelligence, scientific simulation and computational statistics. More details can be found below. 
 
