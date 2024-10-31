@@ -32,7 +32,7 @@ ProbNum25 welcomes submissions on methods, theory and applications in Probabilis
 
 **Methods (Algorithms)**
 - Probabilistic (Bayesian or non-Bayesian) numerical methods.
-  - e.g., Gaussian process interpolation, Bayesian quadrature, Bayesian optimisation, probabilistic solvers of ODEs or PDEs, probabilistic numerical linear algebra.
+  - e.g., Bayesian quadrature, Bayesian optimisation, probabilistic solvers of ODEs or PDEs, probabilistic numerical linear algebra, especially for Gaussian process regression
 - Black-box probabilistic numerics.
 - Reproducing kernel-based methods for numerical analysis (corresponding to probabilistic numerical methods)
   - e.g., kernel interpolation, kernel quadrature, maximum mean discrepancy.
@@ -40,15 +40,15 @@ ProbNum25 welcomes submissions on methods, theory and applications in Probabilis
 **Theory**
 - Error bounds and convergence rates of probabilistic numerical methods.
 - Well-calibratedness of uncertainty estimates. 
-- Properties of hypothesis spaces (e.g., Gaussian processes, reproducing kernel Hilbert spaces).
+- Properties of hypothesis spaces (e.g., Gaussian processes, reproducing kernel Hilbert spaces) of numerical methods.
 
 **Applications**
 - Computation-aware uncertainty quantification for
   -  simulation, including the solution of (partial, ordinary, stochastic, and differential algebraic) differential equations for time-evolving processes.
   -  deep learning-based simulation methods, superresolution methods, diffusion models, neural operators, and other algorithms aiming to functionally replace numerical computation.
-- Computation-aware optimal planning and decision-making under uncertainty.
-- Inverse problems and data assimilation.
-- Applications in science and engineering, such as computational fluid mechanics, astronomy, climate science, and finance.
+- Computation-aware optimal planning and decision-making under uncertainty, including for control, robotics, active learning, etc.
+- Inverse problems and data assimilation, e.g. in scientific simulation.
+- Applications in science and engineering, including (but not limited to) material science, physics and astronomy, climate science, geoscience, and finance.
 
 ---
 ### Submission Instructions
