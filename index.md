@@ -39,5 +39,9 @@ ProbNum25 is the latest edition of a series of events on Probabilistic Numerics 
 - [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/) (University of Tuebingen, Germany)
 
 ---
+### Contact Information
+Any questions can be sent to the organisers above, specifically as an email to motonobu.kanagawa@eurecom.fr with a title containing ``ProbNum25.''
+
+---
 
 
