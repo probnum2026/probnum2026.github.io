@@ -35,7 +35,7 @@ ProbNum25 welcomes submissions on methods, theory and applications in Probabilis
   - e.g., Bayesian quadrature, Bayesian optimisation, probabilistic solvers of ODEs or PDEs, probabilistic numerical linear algebra, especially for Gaussian process regression
 - Black-box probabilistic numerics.
 - Reproducing kernel-based methods for numerical analysis (corresponding to probabilistic numerical methods)
-  - e.g., interpolation, quadrature, maximum mean discrepancy, global optimisation, diffrent equation solvers, physics-informed learning
+  - e.g., interpolation, quadrature, maximum mean discrepancy, global optimisation, differential equation solvers, physics-informed learning
 
 **Theory**
 - Error bounds and convergence rates of probabilistic numerical methods.
