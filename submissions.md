@@ -58,9 +58,8 @@ Submissions are full papers limited to up **8 pages** excluding references, ackn
 Shorter submissions are very welcome and will be equally considered.
 
 **Formatting instructions**  
-Submissions must use the **ProbNum LaTeX style file** which will be provided shortly here.
-Please do not modify the style file.
-Formatting instructions are available in the sample paper.
+Submissions must use the **ProbNum LaTeX style package**, which will be provided here on this page *by 1 January 2025 (at the latest)*.
+Please do not modify the style file. Formatting instructions are available in the sample paper provided with the style package.
 
 **Anonymization**  
 The ProbNum25 review process is double-blind. All submissions must be anonymized and may not contain any information that can violate the double-blind reviewing policy, such as the author names or their affiliations, acknowledgements, or links that can infer any author’s identity or institution. Self-citations are allowed as long as anonymity is preserved.
