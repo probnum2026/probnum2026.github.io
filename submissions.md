@@ -1,51 +1,65 @@
 ---
 layout: default
 title: "ProbNum25 : Submissions"
-header_image: eurecom2.jpg
+header_image: juan3.jpg
 ---
 
 
-# Call for Papers
+## Call for Papers
 
 _Full details, including style files, will be published here in due course._
 
-## Proceedings of ProbNum25
 
-ProbNum25 will have a proceedings issue, published in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press).
-Talks at ProbNum25 will be selected from among the submissions.
-Submissions can be up to 8 pages, with subjects broadly in the area of probabilistic computation.
-We also welcome and encourage shorter papers.
+ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **5th of March 2025**.
+Subject areas are **methods, theory and applications** of probabilistic numerics. 
+The authors of accepted papers will present talks and/or posters at ProbNum25. 
+Details are as follows.
 
-## Important dates
-Timescales for submitting are anticipated to be as follows, though these are subject to revision:
+---
+### Key Dates
 
-- **Submission Deadline** 5th March 2025.
-- **Reviews Released** 9th April 2025.
-- **Responses Due** 18 April 2025.
-- **Decisions** 14 May 2025.
+The current schedule, subject to revision, for submission and the review process is as follows. 
 
+- **Submission Deadline:** 5th March 2025.
+- **Reviews Released:** 9th April 2025.
+- **Responses Due:** 18th April 2025.
+- **Decisions:** 14th May 2025.
 
-## Subject areas
+---
+### Subject Areas
 
-We welcome submissions in areas including but not limited to:
+ProbNum25 welcomes submissions on methods, theory and applications in Probabilistic Numerics or broader fields involving probabilistic quantification of estimation errors of deterministic quantities (computational uncertainties). Examples of topics are as follows.
 
-- Probabilistic numerical methods
-- Applications of probabilistic numerics
-- Decision-making under uncertainty
-- Uncertainty quantification
-- Spatiotemporal modeling
-- Sequential experimental design
+**Methods (Algorithms)**
+- Probabilistic (Bayesian or non-Bayesian) numerical methods.
+  - e.g., Bayesian quadrature, Bayesian optimisation, probabilistic solvers of ODEs or PDEs, probabilistic numerical linear algebra, especially for Gaussian process regression
+- Black-box probabilistic numerics.
+- Reproducing kernel-based methods for numerical analysis (corresponding to probabilistic numerical methods)
+  - e.g., interpolation, quadrature, maximum mean discrepancy, global optimisation, differential equation solvers, physics-informed learning
 
-## Submission instructions
+**Theory**
+- Error bounds and convergence rates of probabilistic numerical methods.
+- Well-calibratedness of uncertainty estimates. 
+- Properties of hypothesis spaces (e.g., Gaussian processes, reproducing kernel Hilbert spaces) of numerical methods.
+
+**Applications**
+- Computation-aware uncertainty quantification for
+  -  simulation, including the solution of (partial, ordinary, stochastic, and differential algebraic) differential equations for time-evolving processes.
+  -  deep learning-based simulation methods, superresolution methods, diffusion models, neural operators, and other algorithms aiming to functionally replace numerical computation.
+- Computation-aware optimal planning and decision-making under uncertainty, including for control, robotics, active learning, etc.
+- Inverse problems and data assimilation, e.g. in scientific simulation.
+- Applications in science and engineering, including (but not limited to) material science, physics and astronomy, climate science, geoscience, and finance.
+
+---
+### Submission Instructions
 
 **Page limit**  
 Submissions are full papers limited to up **8 pages** excluding references, acknowledgements, and appendices.
 Shorter submissions are very welcome and will be equally considered.
 
 **Formatting instructions**  
-Submissions must use the **ProbNum LaTeX style file** which will be provided shortly here.
-Please do not modify the style file.
-Formatting instructions are available in the sample paper.
+Submissions must use the **ProbNum LaTeX style package**, which will be provided here on this page *by 1 January 2025 (at the latest)*.
+Please do not modify the style file. Formatting instructions are available in the sample paper provided with the style package.
 
 **Anonymization**  
 The ProbNum25 review process is double-blind. All submissions must be anonymized and may not contain any information that can violate the double-blind reviewing policy, such as the author names or their affiliations, acknowledgements, or links that can infer any author’s identity or institution. Self-citations are allowed as long as anonymity is preserved.
@@ -60,7 +74,8 @@ Submitted manuscripts should not have been previously published in a journal or 
 **Confidentiality**  
 Reviewer will be instructed to keep them confidential during the review process and delete them once the review process has concluded.
 
-
-## Reviewer nomination
+---
+### Reviewer nomination
 For each submission, the authors will be expected to nominate at least one of the authors as a reviewer for ProbNum25. Nominated reviewers are expected to have sufficient expertise in the relevant field.
 
+---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ProbNum25 : Registration"
-header_image: Juan-les-Pins-2024 (1).jpeg
+header_image: Sophia.jpg
 ---
 
 # Registration
