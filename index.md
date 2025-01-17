@@ -42,7 +42,7 @@ ProbNum25 is the latest edition of a series of events on Probabilistic Numerics 
 
 ---
 ### Contact Information
-Any questions can be sent to the organisers above, specifically as an email to motonobu.kanagawa@eurecom.fr with a title containing ``ProbNum25.''
+Any questions can be sent to the organisers above, specifically as an email to probnum2025@gmail.com
 
 ---
 
