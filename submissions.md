@@ -5,10 +5,12 @@ header_image: juan3.jpg
 ---
 
 
+## Submissions Live!
+
+The [OpenReview site](https://openreview.net/group?id=ProbNum/2025/Conference) is now live for submissions with a deadline of **5th March 2025**.
+Please carefully read the [submission instructions](#submission-instructions) below before submitting.
+
 ## Call for Papers
-
-_Full details, including style files, will be published here in due course._
-
 
 ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **5th of March 2025**.
 Subject areas are **methods, theory and applications** of probabilistic numerics. 
@@ -64,7 +66,7 @@ Submissions must use the [**ProbNum LaTeX style package**](/files/ProbNum25_Styl
 The ProbNum25 review process is double-blind. All submissions must be anonymized and may not contain any information that can violate the double-blind reviewing policy, such as the author names or their affiliations, acknowledgements, or links that can infer any author’s identity or institution. Self-citations are allowed as long as anonymity is preserved.
 
 **Submission page**  
-The submission will be done via OpenReview. The submission page will be available by early 2025.  
+The submission will be done via [OpenReview](https://openreview.net/group?id=ProbNum/2025/Conference).
 Please upload a single file; you can either submit a single pdf file or a single zip file for further supplementary material in other formats.
 
 **Dual submissions**  
