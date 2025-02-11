@@ -18,7 +18,7 @@ ProbNum25 will be held at **EURECOM** near Nice in southern France from **1-3 Se
 
 --- 
 ### Publications as PMLR Proceedings
-ProbNum25 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**. The submission deadline is currently scheduled for **5th March 2025** Submissions are **currently live!** [See here for details](/submissions.html)).
+ProbNum25 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**. The submission deadline is currently scheduled for **5th March 2025**. Submissions are **currently live!** [See here for details](/submissions.html)).
 
 ---
 ### Is ProbNum 2025 for me?
