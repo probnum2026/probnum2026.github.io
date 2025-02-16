@@ -57,7 +57,7 @@ ProbNum25 welcomes submissions on methods, theory and applications in Probabilis
 
 **Page limit**  
 Submissions are full papers limited to up **8 pages** excluding references, acknowledgements, and appendices.
-Shorter submissions are very welcome and will be equally considered.
+Shorter submissions are very welcome and will be equally considered. Any appendices may be submitted as part of the main `pdf` or separately as supplementary material.
 
 **Formatting instructions**  
 Submissions must use the [**ProbNum LaTeX style package**](/files/ProbNum25_StylePack.zip). Detailed instructions can be found in the file *FormattingInstructions.tex* in this zip file. Please do not modify the style file. Formatting instructions are available in the sample paper provided with the style package.
