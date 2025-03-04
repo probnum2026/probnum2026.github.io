@@ -22,7 +22,7 @@ Details are as follows.
 
 The current schedule, subject to revision, for submission and the review process is as follows. 
 
-- **Submission Deadline:** 5th March 2025.
+- **Submission Deadline:** 5th March 2025 (Anywhere on Earth).
 - **Reviews Released:** 9th April 2025.
 - **Responses Due:** 18th April 2025.
 - **Decisions:** 14th May 2025.
