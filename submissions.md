@@ -7,7 +7,7 @@ header_image: juan3.jpg
 
 ## Submissions Live!
 
-The [OpenReview site](https://openreview.net/group?id=ProbNum/2025/Conference) is now live for submissions with a deadline of **5th March 2025**.
+The [OpenReview site](https://openreview.net/group?id=ProbNum/2025/Conference) is now live for submissions with a deadline of **5th March 2025 (Anywhere on Earth)**.
 Please carefully read the [submission instructions](#submission-instructions) below before submitting.
 
 ## Call for Papers
