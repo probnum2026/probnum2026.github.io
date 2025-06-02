@@ -7,7 +7,9 @@ header_image: juan3.jpg
 
 # Tentative Schedule (subject to change) 
 
-**The following is a tentative schedule, created for logistical purposes, and is subject to change significantly.** 
+**The following is a tentative schedule, created for logistical purposes, and is subject to change significantly.**
+
+---
 
 ## 1st September, 2025 (Monday)  
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
@@ -32,6 +34,7 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
 Bus: EURECOM (17:30) -> Antibes (place de gaulle)
 
+---
 
 ## 2nd September, 2025 (Tuesday)  
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
@@ -59,6 +62,7 @@ Bus: Eurecom (17:00)  -> Nice  (Excursion + Conference dinner)
 
 Bus: Nice (10:30) -> Antibes (place de gaulle)
 
+---
 
 ## 3rd September, 2025 (Wednesday)  
 
@@ -77,4 +81,6 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
 12:30 - 14:00: Lunch break 
 
 14:00 - 14:30: Closing
+
+--- 
 
