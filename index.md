@@ -14,7 +14,7 @@ ProbNum25 welcomes researchers and practitioners interested in methods, theory a
 --- 
 ### Venue, Dates and Registration
 
-ProbNum25 will be held at **EURECOM** near Nice in southern France from **1-3 September 2025** ([Details](/venue.html)).  The event is open to all. We expect to open registrations on **14th May 2025**.
+ProbNum25 will be held at **EURECOM** near Nice in southern France from **1-3 September 2025** ([Details](/venue.html)).  The event is open to all. Registration is now [open](https://probnum25.github.io/registration) (Deadline: August 10).
 
 --- 
 ### Publications as PMLR Proceedings
