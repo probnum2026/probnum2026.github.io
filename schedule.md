@@ -7,7 +7,7 @@ header_image: juan3.jpg
 
 # Tentative Schedule (subject to change) 
 
-The following is a current tentative schedule, and subject to change. 
+The following is a tentative schedule made for logistical purposes, and may change significantly. 
 - **To authors**: Please tell the organizers if the following schedule is inconvenient for you.
 
 ## 1st September, 2025 (Monday)  
