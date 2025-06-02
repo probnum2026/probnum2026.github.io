@@ -8,7 +8,7 @@ header_image: juan3.jpg
 # Tentative Schedule (subject to change) 
 
 The following is a current tentative schedule, and subject to change. 
-**To authors**: Please tell the organizers if the following schedule is inconvenient for you.
+- **To authors**: Please tell the organizers if the following schedule is inconvenient for you.
 
 ## 1st September, 2025 (Monday)  
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
