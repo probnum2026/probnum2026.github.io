@@ -32,7 +32,7 @@ Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
 
 -  **Nice** is another good option, but buses may take longer.
 -  While there are hotels near EURECOM in Sophia Antipolis, the above coastal cities are recommended for enjoying the beautiful French Riviera! (and there are more shops and restaurants there)
--  
+
 - More practical information will be provided when the time approaches.
 
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d72494.99709426609!2d7.022442141853816!3d43.58225685915261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cdd5459e5a91a9%3A0x40819a5fd979fb0!2sAntibes!5e1!3m2!1sen!2sfr!4v1729699434306!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
