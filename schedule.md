@@ -24,7 +24,7 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
 12:30 - 14:00: Lunch break
 
-14:00 - 14:00: **Tutorial/keynote** 2: TBD
+14:00 - 15:00: **Tutorial/keynote** 2: TBD
 
 15:00 - 16:00: Coffee break + poster
 
