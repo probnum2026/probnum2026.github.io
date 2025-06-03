@@ -66,14 +66,14 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
 11:00 - 11:30: Coffee break + poster session
 
-11:30 - 12:00: Talk 2:  
+11:30 - 12:00: Talk 2  
 - **Solving Einstein's equations as Bayesian regression**.
   - Frederik De Ceuster, Tom Colemont, Tjonnie G.F. Li
     <details>
     <summary><em>Abstract</em></summary>
     <p> Gravitational waves (GWs) are revolutionising our fundamental understanding of physics and cosmology. However, the numerical modelling required to turn their measurement into a scientific detection poses a formidable computational challenge. In this paper, we explore whether a Bayesian view can help enhance the computational efficiency of GW source models. As a proof-of-principle, we pose the solution of the Einstein equations, which relate the dynamics of spacetime to its matter content, as a Bayesian regression problem. By choosing natural priors, based on Green's functions of the relevant operators, we open up ways to better target computing power in our numerical models. Therefore, we conclude that probabilistic numerics is a promising approach to overcome the computational challenges in GW science. </p> </details>
 
-12:00 - 12:30: Talk 3:
+12:00 - 12:30: Talk 3
 - **Fast Gaussian process regression for high dimensional functions with derivative information**.
   - Aleksei Sorokin, Pieterjan Robbe, Fred J Hickernell
     <details>
@@ -83,14 +83,14 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
     
 12:30 - 14:00: Lunch break  
 
-14:00 - 14:30: Talk 4:  
+14:00 - 14:30: Talk 4  
 - **Natural Evolutionary Search meets Probabilistic Numerics**.
   - Pierre Osselin, Masaki Adachi, Xiaowen Dong, Michael A Osborne
     <details>
     <summary><em>Abstract</em></summary>
     <p> Zeroth-order local optimisation algorithms are essential for solving real-valued black-box optimisation problems. Among these, Natural Evolution Strategies (NES) represent a prominent class, particularly well-suited for scenarios where prior distributions are available. By optimising the objective function in the space of search distributions, NES algorithms naturally integrate prior knowledge during initialisation, making them effective in settings such as semi-supervised learning and user-prior belief frameworks. However, due to their reliance on random sampling and Monte Carlo estimates, NES algorithms can suffer from limited sample efficiency. In this paper, we introduce a novel class of algorithms, termed Probabilistic Natural Evolutionary Strategy Algorithms (ProbNES), which enhance the NES framework with Bayesian quadrature. We show that ProbNES algorithms consistently outperforms their non-probabilistic counterparts as well as global sample efficient methods such as Bayesian Optimisation (BO) or $\pi$BO across a wide range of tasks, including benchmark test functions, data-driven optimisation tasks, user-informed hyperparameter tuning tasks and locomotion tasks. </p> </details>
  
-14:30 - 15:00: Talk 5: 
+14:30 - 15:00: Talk 5 
 - **Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud Offloading**.
   - Qiushuo Hou, Sangwoo Park, Matteo Zecchin, Yunlong Cai, Guanding Yu, Osvaldo Simeone
     <details>
@@ -99,7 +99,7 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
 15:00 - 16:00: Coffee break + poster session
 
-16:00 - 16:30: Talk 6:  
+16:00 - 16:30: Talk 6  
 - **Effects of Interpolation Error and Bias on the Random Mesh Finite Element Method for Inverse Problems**.
   - Anne Poot, Iuri Rocha, Pierre Kerfriden, Frans van der Meer
     <details>
@@ -118,23 +118,23 @@ Bus: Nice (10:30) -> Antibes (place de gaulle)
 
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
-10:00 - 10:30: Talk 7:  
+10:00 - 10:30: Talk 7  
 - **Learning to Solve Related Linear Systems**.
   - Disha Hegde, Jon Cockayne
     <details>
     <summary><em>Abstract</em></summary>
     <p> Solving multiple parametrised related systems is an essential component of many numerical tasks. Borrowing strength from the solved systems and learning will make this process faster. In this work, we propose a novel probabilistic linear solver over the parameter space. This leverages information from the solved linear systems in a regression setting to provide an efficient posterior mean and covariance. We advocate using this as companion regression model for the preconditioned conjugate gradient method, and discuss the favourable properties of the posterior mean and covariance as the initial guess and preconditioner. We also provide several design choices for this companion solver. Numerical experiments showcase the benefits of using our novel solver in a hyperparameter optimisation problem. </p> </details>
  
-10:30 - 11:00: Talk 8: 
+10:30 - 11:00: Talk 8 
 - **Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters**.
   - Wouter M. Kouw
     <details>
     <summary><em>Abstract</em></summary>
     <p> We present a probabilistic numerical procedure for optimizing Matérn-class temporal Gaussian processes with respect to the kernel covariance function's hyperparameters. It is based on casting the optimization problem as a recursive Bayesian estimation procedure for the parameters of an autoregressive model. The recursive nature means that there is a initial value that should improve after every update, much like iterative local optimization techniques. We demonstrate that the proposed procedure outperforms the standard maximum marginal likelihood-based approach in both runtime and ultimate root mean square error in Gaussian process regression. </p> </details>
 
-11:00 - 11:30: Coffee break + poster
+11:00 - 11:30: Coffee break + poster session
 
-11:30 - 12:00: Talk 9: 
+11:30 - 12:00: Talk 9 
 - **Propagating Model Uncertainty through Filtering-based Probabilistic Numerical ODE Solvers**.
   - Dingling Yao, Filip Tronarp, Nathanael Bosch
     <details>
@@ -142,7 +142,7 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
     <p>Filtering-based probabilistic numerical solvers for ordinary differential equations (ODEs), also known as ODE filters, have been established as efficient methods for quantifying numerical uncertainty in the solution of ODEs. In practical applications, however, the underlying dynamical system often contains uncertain parameters, requiring the propagation of this model uncertainty to the ODE solution. In this paper, we demonstrate that ODE filters, despite their probabilistic nature, do not automatically solve this uncertainty propagation problem. To address this limitation, we present a novel approach that combines ODE filters with numerical quadrature to properly marginalize over uncertain parameters, while accounting for both parameter uncertainty and numerical solver uncertainty. Experiments across multiple dynamical systems demonstrate that the resulting uncertainty estimates closely match reference solutions. Notably, we show how the numerical uncertainty from the ODE solver can help prevent overconfidence in the propagated uncertainty estimates, especially when using larger step sizes. Our results illustrate that probabilistic numerical methods can effectively quantify both numerical and parametric uncertainty in dynamical systems. </p>  </details>
   
 
-12:00 - 12:30: Talk 10:  
+12:00 - 12:30: Talk 10  
 - **Randomised Postiterations for Calibrated BayesCG**.
   - Niall Vyas, Disha Hegde, Jon Cockayne
     <details>
