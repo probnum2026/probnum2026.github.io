@@ -36,7 +36,7 @@ header_image: juan3.jpg
 
 ### 14:00 - 15:00: **Tutorial/keynote** 2: TBD
 
-### 15:00 - 16:00: Coffee break + poster
+### 15:00 - 16:00: Coffee break + poster session
 
 ### 16:00 - 16:30: Demo 3
 - **Adaptive Probabilistic ODE Solvers Without Adaptive Memory Requirements**.
@@ -60,30 +60,56 @@ header_image: juan3.jpg
 ---
 
 ## 2nd September, 2025 (Tuesday)  
-Bus: Antibes (9:00, place de gaulle) -> EURECOM
+#### Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
-10:00 - 11:00: **Tutorial/keynote** 3: TBD
+### 10:00 - 11:00: **Tutorial/keynote** 3: TBD
 
-11:00 - 11:30: Coffee break + poster
+### 11:00 - 11:30: Coffee break + poster session
 
-11:30 - 12:00: Talk 2: **Solving Einstein's equations as Bayesian regression**  
+### 11:30 - 12:00: Talk 2:  
+- **Solving Einstein's equations as Bayesian regression**.
+  - Frederik De Ceuster, Tom Colemont, Tjonnie G.F. Li
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> Gravitational waves (GWs) are revolutionising our fundamental understanding of physics and cosmology. However, the numerical modelling required to turn their measurement into a scientific detection poses a formidable computational challenge. In this paper, we explore whether a Bayesian view can help enhance the computational efficiency of GW source models. As a proof-of-principle, we pose the solution of the Einstein equations, which relate the dynamics of spacetime to its matter content, as a Bayesian regression problem. By choosing natural priors, based on Green's functions of the relevant operators, we open up ways to better target computing power in our numerical models. Therefore, we conclude that probabilistic numerics is a promising approach to overcome the computational challenges in GW science. </p> </details>
 
-12:00 - 12:30: Talk 3: **Fast Gaussian process regression for high dimensional functions with derivative information**
+### 12:00 - 12:30: Talk 3:
+- **Fast Gaussian process regression for high dimensional functions with derivative information**.
+  - Aleksei Sorokin, Pieterjan Robbe, Fred J Hickernell
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p>  Gaussian process regression (GPR) is the backbone of many methods in probabilistic numerics. Exact GPR on \(n\) sampling locations in \(d\) dimensions generally costs \(\mathcal{O}(n^3)\) to fit and requires \(\mathcal{O}(n^2)\) storage. Using certain pairings of sampling locations and kernels induces nice structure into the Gram matrix and enables accelerated exact GPR. One popular pairing uses Cartesian grids with product kernels to induce Kronecker structure in the Gram matrix. This reduces exact GP fitting costs to \(\mathcal{O}(d n^{3/d})\) and storage requirements to \(\mathcal{O}(d n^{2/d})\), but quickly becomes intractable when the dimension exceeds a few dozen. Recent work has shown that pairings of certain low-discrepancy sequences with special kernels enable GPR to scale like \(\mathcal{O}(n \log n)\) for fitting costs and \(\mathcal{O}(n)\) for storage requirements.  We describe an extension of these methods to problems which observe \(m\) derivative multi-indices at each of the \(n\) low-discrepancy sampling locations.  By exploiting similar structure across blocks of the Gram matrix, we are able to reduce the GP fitting cost from \(\mathcal{O}(n^3 m^3)\) to \(\mathcal{O}(n^2 \log n + m^3 n)\) and reduce the storage requirements from \(\mathcal{O}(n^2 m^2)\) to \(\mathcal{O}(n m^2)\).  We explore a number of synthetic benchmarks to illustrate the potential of the proposed approach.
+    </p> </details>
+    
+### 12:30 - 14:00: Lunch break  
 
-12:30 - 14:00: Lunch break  
-
-14:00 - 14:30: Talk 4: **Natural Evolutionary Search meets Probabilistic Numerics**
+### 14:00 - 14:30: Talk 4:  
+- **Natural Evolutionary Search meets Probabilistic Numerics**.
+  - Pierre Osselin, Masaki Adachi, Xiaowen Dong, Michael A Osborne
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> Zeroth-order local optimisation algorithms are essential for solving real-valued black-box optimisation problems. Among these, Natural Evolution Strategies (NES) represent a prominent class, particularly well-suited for scenarios where prior distributions are available. By optimising the objective function in the space of search distributions, NES algorithms naturally integrate prior knowledge during initialisation, making them effective in settings such as semi-supervised learning and user-prior belief frameworks. However, due to their reliance on random sampling and Monte Carlo estimates, NES algorithms can suffer from limited sample efficiency. In this paper, we introduce a novel class of algorithms, termed Probabilistic Natural Evolutionary Strategy Algorithms (ProbNES), which enhance the NES framework with Bayesian quadrature. We show that ProbNES algorithms consistently outperforms their non-probabilistic counterparts as well as global sample efficient methods such as Bayesian Optimisation (BO) or $\pi$BO across a wide range of tasks, including benchmark test functions, data-driven optimisation tasks, user-informed hyperparameter tuning tasks and locomotion tasks. </p> </details>
  
-14:30 - 15:00: Talk 5: **Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud Offloading** 
+### 14:30 - 15:00: Talk 5: 
+- **Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud Offloading**.
+  - Qiushuo Hou, Sangwoo Park, Matteo Zecchin, Yunlong Cai, Guanding Yu, Osvaldo Simeone
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> Consider an edge computing setting in which a user submits queries for the solution of a linear system to an edge processor, which is subject to time-varying computing availability. The edge processor applies a probabilistic linear solver (PLS) so as to be able to respond to the user’s query within the allotted time and computing budget. Feedback to the user is in the form of an uncertainty set. Due to model misspecification, the uncertainty set obtained via a direct application of PLS does not come with coverage guarantees with respect to the true solution of the linear system. This work introduces a new method to calibrate the uncertainty sets produced by PLS with the aim of guaranteeing long-term coverage requirements. The proposed method, referred to as online conformal prediction-PLS (OCP-PLS), assumes sporadic feedback from cloud to edge. This enables the online calibration of uncertainty thresholds via online conformal prediction (OCP), an online optimization method previously studied in the context of prediction models. The validity of OCP-PLS is verified via experiments that bring insights into trade-offs between coverage, prediction set size, and cloud usage. </p </details>
+
+### 15:00 - 16:00: Coffee break + poster session
+
+### 16:00 - 16:30: Talk 6:  
+- **Effects of Interpolation Error and Bias on the Random Mesh Finite Element Method for Inverse Problems**.
+  - Anne Poot, Iuri Rocha, Pierre Kerfriden, Frans van der Meer
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> Bayesian inverse problems are an important application for probabilistic solvers of partial differential equations: when fully resolving numerical error is computationally infeasible, probabilistic solvers can be used to consistently model the error and propagate it to the posterior. In this work, the performance of the random mesh finite element method (RM-FEM) is investigated in a Bayesian inverse setting. We show how interpolation error negatively affects the RM-FEM posterior, and how these negative effects can be diminished. In scenarios where FEM is biased for a quantity of interest, we find that RM-FEM struggles to accurately model this bias. </p> </details>
 
 
-15:00 - 16:00: Coffee break + poster
+#### Bus: Eurecom (17:00)  -> Nice  (Excursion + Conference dinner)
 
-16:00 - 16:30: Talk 6: **Effects of Interpolation Error and Bias on the Random Mesh Finite Element Method for Inverse Problems**  
-
-Bus: Eurecom (17:00)  -> Nice  (Excursion + Conference dinner)
-
-Bus: Nice (10:30) -> Antibes (place de gaulle)
+#### Bus: Nice (10:30) -> Antibes (place de gaulle)
 
 ---
 
