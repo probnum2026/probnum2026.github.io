@@ -106,6 +106,7 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
     <summary><em>Abstract</em></summary>
     <p> Bayesian inverse problems are an important application for probabilistic solvers of partial differential equations: when fully resolving numerical error is computationally infeasible, probabilistic solvers can be used to consistently model the error and propagate it to the posterior. In this work, the performance of the random mesh finite element method (RM-FEM) is investigated in a Bayesian inverse setting. We show how interpolation error negatively affects the RM-FEM posterior, and how these negative effects can be diminished. In scenarios where FEM is biased for a quantity of interest, we find that RM-FEM struggles to accurately model this bias. </p> </details>
 
+16:30 - 16:45: Message from organisers (about ProbNum 2026)
 
 Bus: Eurecom (17:00)  -> Nice  (Excursion + Conference dinner)
 
