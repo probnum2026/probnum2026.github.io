@@ -115,21 +115,42 @@ header_image: juan3.jpg
 
 ## 3rd September, 2025 (Wednesday)  
 
-Bus: Antibes (9:00, place de gaulle) -> EURECOM
+#### Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
-10:00 - 10:30: Talk 7: **Learning to Solve Related Linear Systems**
+### 10:00 - 10:30: Talk 7:  
+- **Learning to Solve Related Linear Systems**.
+  - Disha Hegde, Jon Cockayne
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> Solving multiple parametrised related systems is an essential component of many numerical tasks. Borrowing strength from the solved systems and learning will make this process faster. In this work, we propose a novel probabilistic linear solver over the parameter space. This leverages information from the solved linear systems in a regression setting to provide an efficient posterior mean and covariance. We advocate using this as companion regression model for the preconditioned conjugate gradient method, and discuss the favourable properties of the posterior mean and covariance as the initial guess and preconditioner. We also provide several design choices for this companion solver. Numerical experiments showcase the benefits of using our novel solver in a hyperparameter optimisation problem. </p> </details>
  
-10:30 - 11:00: Talk 8: **Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters**
+### 10:30 - 11:00: Talk 8: 
+- **Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters**.
+  - Wouter M. Kouw
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> We present a probabilistic numerical procedure for optimizing Matérn-class temporal Gaussian processes with respect to the kernel covariance function's hyperparameters. It is based on casting the optimization problem as a recursive Bayesian estimation procedure for the parameters of an autoregressive model. The recursive nature means that there is a initial value that should improve after every update, much like iterative local optimization techniques. We demonstrate that the proposed procedure outperforms the standard maximum marginal likelihood-based approach in both runtime and ultimate root mean square error in Gaussian process regression. </p> </details>
 
-11:00 - 11:30: Coffee break + poster
+### 11:00 - 11:30: Coffee break + poster
 
-11:30 - 12:00: Talk 9: **Propagating Model Uncertainty through Filtering-based Probabilistic Numerical ODE Solvers**
+### 11:30 - 12:00: Talk 9: 
+- **Propagating Model Uncertainty through Filtering-based Probabilistic Numerical ODE Solvers**.
+  - Dingling Yao, Filip Tronarp, Nathanael Bosch
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p>Filtering-based probabilistic numerical solvers for ordinary differential equations (ODEs), also known as ODE filters, have been established as efficient methods for quantifying numerical uncertainty in the solution of ODEs. In practical applications, however, the underlying dynamical system often contains uncertain parameters, requiring the propagation of this model uncertainty to the ODE solution. In this paper, we demonstrate that ODE filters, despite their probabilistic nature, do not automatically solve this uncertainty propagation problem. To address this limitation, we present a novel approach that combines ODE filters with numerical quadrature to properly marginalize over uncertain parameters, while accounting for both parameter uncertainty and numerical solver uncertainty. Experiments across multiple dynamical systems demonstrate that the resulting uncertainty estimates closely match reference solutions. Notably, we show how the numerical uncertainty from the ODE solver can help prevent overconfidence in the propagated uncertainty estimates, especially when using larger step sizes. Our results illustrate that probabilistic numerical methods can effectively quantify both numerical and parametric uncertainty in dynamical systems. </p>  </details>
+  
 
-12:00 - 12:30: Talk 10: **Randomised Postiterations for Calibrated BayesCG**
+### 12:00 - 12:30: Talk 10:  
+- **Randomised Postiterations for Calibrated BayesCG**.
+  - Niall Vyas, Disha Hegde, Jon Cockayne
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> The Bayesian conjugate gradient method offers probabilistic solutions to linear systems but suffers from poor calibration, limiting its utility in uncertainty quantification tasks. Recent approaches leveraging postiterations to construct priors have improved computational properties but failed to correct calibration issues. In this work, we propose a novel randomised postiteration strategy that enhances the calibration of the BayesCG posterior while preserving its favourable convergence characteristics. We present theoretical guarantees for the improved calibration, supported by results on the distribution of posterior errors. Numerical experiments demonstrate the efficacy of the method in both synthetic and inverse problem settings, showing enhanced uncertainty quantification and better propagation of uncertainties through computational pipelines. </p> </details>
 
-12:30 - 14:00: Lunch break 
+### 12:30 - 14:00: Lunch break 
 
-14:00 - 14:30: Closing
+### 14:00 - 14:30: Closing
 
 --- 
 
