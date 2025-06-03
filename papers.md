@@ -56,56 +56,49 @@ header_image: Juan2.jpg
   - Niall Vyas, Disha Hegde, Jon Cockayne
     <details>
     <summary><em>Abstract</em></summary>
-    <p> </p>
-  </details>
+    <p> The Bayesian conjugate gradient method offers probabilistic solutions to linear systems but suffers from poor calibration, limiting its utility in uncertainty quantification tasks. Recent approaches leveraging postiterations to construct priors have improved computational properties but failed to correct calibration issues. In this work, we propose a novel randomised postiteration strategy that enhances the calibration of the BayesCG posterior while preserving its favourable convergence characteristics. We present theoretical guarantees for the improved calibration, supported by results on the distribution of posterior errors. Numerical experiments demonstrate the efficacy of the method in both synthetic and inverse problem settings, showing enhanced uncertainty quantification and better propagation of uncertainties through computational pipelines. </p> </details>
   
  ---
 - **A Dictionary of Closed-Form Kernel Mean Embeddings**.
   - Francois-Xavier Briol, Toni Karvonen, Alexandra Gessner, Maren Mahsereci
     <details>
     <summary><em>Abstract</em></summary>
-    <p> </p>
-  </details>
+    <p> Kernel mean embeddings -- integrals of a kernel with respect to a probability distribution -- are essential in Bayesian quadrature, but also widely used in other computational tools for numerical integration or methods for statistical inference. These methods often require, or are enhanced by, the availability of a closed-form expression for the kernel mean embedding. However, deriving such expressions can be challenging, limiting the applicability of kernel-based techniques when practitioners do not have access to a closed-form embedding. This paper addresses this limitation by providing a comprehensive dictionary of known kernel mean embeddings, along with practical tools for deriving new embeddings from known ones. We also provide a Python library that includes minimal implementations of the embeddings. </p>  </details>
   
  ---
 - **Effects of Interpolation Error and Bias on the Random Mesh Finite Element Method for Inverse Problems**.
   - Anne Poot, Iuri Rocha, Pierre Kerfriden, Frans van der Meer
     <details>
     <summary><em>Abstract</em></summary>
-    <p> </p>
-  </details>
+    <p> Bayesian inverse problems are an important application for probabilistic solvers of partial differential equations: when fully resolving numerical error is computationally infeasible, probabilistic solvers can be used to consistently model the error and propagate it to the posterior. In this work, the performance of the random mesh finite element method (RM-FEM) is investigated in a Bayesian inverse setting. We show how interpolation error negatively affects the RM-FEM posterior, and how these negative effects can be diminished. In scenarios where FEM is biased for a quantity of interest, we find that RM-FEM struggles to accurately model this bias. </p> </details>
   
  ---
 - **Learning to Solve Related Linear Systems**.
   - Disha Hegde, Jon Cockayne
     <details>
     <summary><em>Abstract</em></summary>
-    <p> </p>
-  </details>
+    <p> Solving multiple parametrised related systems is an essential component of many numerical tasks. Borrowing strength from the solved systems and learning will make this process faster. In this work, we propose a novel probabilistic linear solver over the parameter space. This leverages information from the solved linear systems in a regression setting to provide an efficient posterior mean and covariance. We advocate using this as companion regression model for the preconditioned conjugate gradient method, and discuss the favourable properties of the posterior mean and covariance as the initial guess and preconditioner. We also provide several design choices for this companion solver. Numerical experiments showcase the benefits of using our novel solver in a hyperparameter optimisation problem. </p> </details>
   
  ---
 - **Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters**.
   - Wouter M. Kouw
     <details>
     <summary><em>Abstract</em></summary>
-    <p> </p>
-  </details>
+    <p> We present a probabilistic numerical procedure for optimizing Matérn-class temporal Gaussian processes with respect to the kernel covariance function's hyperparameters. It is based on casting the optimization problem as a recursive Bayesian estimation procedure for the parameters of an autoregressive model. The recursive nature means that there is a initial value that should improve after every update, much like iterative local optimization techniques. We demonstrate that the proposed procedure outperforms the standard maximum marginal likelihood-based approach in both runtime and ultimate root mean square error in Gaussian process regression. </p> </details>
   
  ---
 - **Solving Einstein's equations as Bayesian regression**.
   - Frederik De Ceuster, Tom Colemont, Tjonnie G.F. Li
     <details>
     <summary><em>Abstract</em></summary>
-    <p> </p>
-  </details>
+    <p> Gravitational waves (GWs) are revolutionising our fundamental understanding of physics and cosmology. However, the numerical modelling required to turn their measurement into a scientific detection poses a formidable computational challenge. In this paper, we explore whether a Bayesian view can help enhance the computational efficiency of GW source models. As a proof-of-principle, we pose the solution of the Einstein equations, which relate the dynamics of spacetime to its matter content, as a Bayesian regression problem. By choosing natural priors, based on Green's functions of the relevant operators, we open up ways to better target computing power in our numerical models. Therefore, we conclude that probabilistic numerics is a promising approach to overcome the computational challenges in GW science. </p> </details>
   
  ---
 - **Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud Offloading**.
   - Qiushuo Hou, Sangwoo Park, Matteo Zecchin, Yunlong Cai, Guanding Yu, Osvaldo Simeone
     <details>
     <summary><em>Abstract</em></summary>
-    <p> </p>
-  </details>
+    <p> Consider an edge computing setting in which a user submits queries for the solution of a linear system to an edge processor, which is subject to time-varying computing availability. The edge processor applies a probabilistic linear solver (PLS) so as to be able to respond to the user’s query within the allotted time and computing budget. Feedback to the user is in the form of an uncertainty set. Due to model misspecification, the uncertainty set obtained via a direct application of PLS does not come with coverage guarantees with respect to the true solution of the linear system. This work introduces a new method to calibrate the uncertainty sets produced by PLS with the aim of guaranteeing long-term coverage requirements. The proposed method, referred to as online conformal prediction-PLS (OCP-PLS), assumes sporadic feedback from cloud to edge. This enables the online calibration of uncertainty thresholds via online conformal prediction (OCP), an online optimization method previously studied in the context of prediction models. The validity of OCP-PLS is verified via experiments that bring insights into trade-offs between coverage, prediction set size, and cloud usage. </p </details>
   
  ---
 
