@@ -15,7 +15,7 @@ The registration fee is **350 EUR**, and should be paid on the payment website b
 
 - ~~[Please make your registration here](https://docs.google.com/forms/d/e/1FAIpQLSfqxgl9gLVwdIZXJzY1VMEJKKpfC-DbU-lVVFc9iBt62riEPA/viewform?usp=header)~~
 
-- ~~[Registration fee payment should be done here](https://ers.eurecom.fr/en/probnum2025/)~~
+- ~~[Registration fee payment should be done here]~~
  
 --- 
 
