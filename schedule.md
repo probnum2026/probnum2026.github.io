@@ -119,7 +119,7 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
 Bus: Eurecom (17:00)  -> Nice  (Excursion + Conference dinner)
 
-Bus: Nice (10:30) -> Antibes (place de gaulle)
+Bus: Nice (22:30) -> Antibes (place de gaulle)
 
 ---
 
