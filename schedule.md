@@ -14,7 +14,7 @@ header_image: juan3.jpg
 ## 1st September, 2025 (Monday)  
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
-10:00 - 11:00: **Keynote**: Samuel Kaski (ELLIS Institute Finland, Aalto University and University of Manchester) 
+10:00 - 11:00: **Keynote: Samuel Kaski (ELLIS Institute Finland, Aalto University and University of Manchester)** 
 
 11:00 - 11:30: Coffee break + poster session
 
@@ -69,7 +69,7 @@ Bus: EURECOM (17:30) -> Antibes (place de gaulle)
 ## 2nd September, 2025 (Tuesday)  
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
-10:00 - 11:00: **Keynote**: Arthur Gretton (University College London and Google DeepMind)
+10:00 - 11:00: **Keynote: Arthur Gretton (University College London and Google DeepMind)**
 
 11:00 - 11:30: Coffee break + poster session
 
