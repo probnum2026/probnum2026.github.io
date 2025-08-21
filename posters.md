@@ -55,3 +55,11 @@ header_image: Juan2.jpg
     <p> In the framework of uncertainty quantification (UQ) of computer codes (denoted G hereinafter), the role of probabilistic robustness methods is important in cases of presence of uncertainty on the probability distribution of the inputs of G. These two-step UQ methods consist in: (a) perturbing the input probability distributions of the computer code, (b) assessing the worst effect of the input perturbation on a quantity of interest (e.g. a quantile) of the output. In this communication, we focus on the second step which corresponds to an optimization problem on a parametric family of probability distributions. The objective function is a quantile of the output of G which depends on the parametric distribution of the input X. We discuss the specificity of this problem and the approach taken to solving it, which is based on natural evolution strategies and information-geometric optimization methods. An application to a toy case and an industrial case-study conclude the poster presentation. </p>  </details>
 
 ---
+- **Optimal kernel regression bounds under energy-bounded noise**.
+  - Amon Lahr
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> Non-conservative uncertainty bounds are key for both assessing an estimation algorithm’s accuracy and in view of downstream tasks, such as its deployment in safety-critical contexts. In this paper, we derive a tight, non-asymptotic uncertainty bound for kernel-based estimation, which can also handle correlated noise sequences. Its computation relies on a mild norm-boundedness assumption on the unknown function and the noise, returning the worst-case function realization within the hypothesis class at an arbitrary query input location. The value of this function is shown to be given in terms of the posterior mean and covariance of a Gaussian process for an optimal choice of the measurement noise covariance. By rigorously analyzing the proposed approach and comparing it with other results in the literature, we show its effectiveness in returning tight and easy-to-compute bounds for kernel-based estimates. </p>  </details>
+
+---
+
