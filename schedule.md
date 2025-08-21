@@ -18,7 +18,7 @@ Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
 11:00 - 11:30: Coffee break + poster session
 
-11:30 - 12:15 
+11:30 - 12:15: Talk + demo
 - **Adaptive Probabilistic ODE Solvers Without Adaptive Memory Requirements**.
    - Nicholas Krämer
      <details>
