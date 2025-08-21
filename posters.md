@@ -39,3 +39,19 @@ header_image: Juan2.jpg
     <details>
     <summary><em>Abstract</em></summary>
     <p> Almost every numerical task can be cast as extrapolation with respect to the fidelity or tolerance parameter of a consistent numerical method.  This perspective enables probabilistic uncertainty quantification and optimal experimental design functionality to be deployed, and also unlocks the potential for convergence of the numerical method to be accelerated.  Recent work established Probabilistic Richardson Extrapolation as a proof of concept, demonstrating how parallel multi-fidelity simulation can be used to accelerate simulation from a whole heart model.  However, the number of data was required to increase super-exponentially with dimension, limiting use in the multivariate context.  This new work develops the notion of `extrapolation sparsity', which is satisfied by most modern numerical methods and provides a promising route to reducing the data requirement.  Sparsity-exploiting methodology is developed that is simultaneously simpler and more powerful compared to earlier work, and this is accompanied by sharp theoretical guarantees. </p>  </details>
+
+---
+- **Graph-informed importance sampling for piecewise deterministic Markov processes**.
+  - Chennetier Guillaume
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> Piecewise Deterministic Markov Processes (PDMPs) describe deterministic dynamical systems with parameters subject to random jumps, making them versatile tools for modeling complex phenomena. However, generating their trajectories can be computationally expensive. For a large class of inference problems, an optimal sampling strategy exists and relies on a generalized version of the “committor function” of the process. We propose a novel adaptive importance sampling method to efficiently generate rare trajectories of PDMPs. The approach involves a two-phase process. In a first offline phase, the PDMP is approximated by a simpler process on a graph, enabling explicit computation of key quantities used to build a low-cost approximation of the committor function. In a second online phase, PDMP trajectories are generated using a distribution informed by this approximation and iteratively refined via cross-entropy minimization. We provide asymptotic guarantees and demonstrate the method’s effectiveness by estimating the failure probability of a complex industrial system. </p>  </details>
+
+---
+- **Information-Geometric Optimization for computing quantile-based robustness indices**.
+  - Baalu-Belay Ketema
+    <details>
+    <summary><em>Abstract</em></summary>
+    <p> In the framework of uncertainty quantification (UQ) of computer codes (denoted G hereinafter), the role of probabilistic robustness methods is important in cases of presence of uncertainty on the probability distribution of the inputs of G. These two-step UQ methods consist in: (a) perturbing the input probability distributions of the computer code, (b) assessing the worst effect of the input perturbation on a quantity of interest (e.g. a quantile) of the output. In this communication, we focus on the second step which corresponds to an optimization problem on a parametric family of probability distributions. The objective function is a quantile of the output of G which depends on the parametric distribution of the input X. We discuss the specificity of this problem and the approach taken to solving it, which is based on natural evolution strategies and information-geometric optimization methods. An application to a toy case and an industrial case-study conclude the poster presentation. </p>  </details>
+
+---
