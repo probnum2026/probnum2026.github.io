@@ -14,6 +14,7 @@ header_image: Juan2.jpg
 - Frederik De Ceuster (Leuven Gravity Institute, KU Leuven)
 - Tom Colemont (Leuven Gravity Institute, KU Leuven)
 - Olivier Dondjio (LUT University)
+- Carl Henrik Ek (University of Cambridge)
 - Matthew Fisher (Newcastle University)
 - Masahiro Fujisawa (The University of Osaka, Toyota Motor Corporation, RIKEN AIP)
 - Alexandra Gessner (AstraZeneca)
