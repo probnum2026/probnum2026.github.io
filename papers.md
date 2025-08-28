@@ -5,6 +5,8 @@ header_image: Juan2.jpg
 ---
 ## Accepted Papers
 
+See published papers in PMLR proceedings [here] (https://proceedings.mlr.press/v271/)
+
  ---
 - **Fixing the Pitfalls of Probabilistic Time-Series Forecasting Evaluation by Kernel Quadrature**.
   - Masaki Adachi, Masahiro Fujisawa, Michael A Osborne. 
