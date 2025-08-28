@@ -66,7 +66,12 @@ Bus: EURECOM (17:30) -> Antibes (place de gaulle)
 ## 2nd September, 2025 (Tuesday)  
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
-10:00 - 11:00: **Keynote: Arthur Gretton (University College London and Google DeepMind)**
+10:00 - 11:00: **Keynote**
+- **Wasserstein Gradient Flow on the Maximum Mean Discrepancy**.
+   -  Arthur Gretton (Gatsby Unit,University College London and Google DeepMind) 
+       <details>
+       <summary><em>Abstract</em></summary>
+       <p>We construct a Wasserstein gradient flow on the Maximum Mean Discrepancy (MMD): an integral probability metric defined for a reproducing kernel Hilbert space (RKHS), which serves as a metric on probability measures for a sufficiently rich RKHS. This flow transports particles from an initial distribution to a target distribution, where the latter is provided simply as a sample, and can be used to generate new samples from the target distribution. We obtain conditions for convergence of the gradient flow towards a global optimum, and relate this flow to the problem of optimizing neural network parameters. We propose a way to regularize the MMD gradient flow, based on an injection of noise in the gradient, and give theoretical and empirical evidence for this procedure. We provide empirical validation of the MMD gradient flow in the setting of neural network training.</p>  </details>  
 
 11:00 - 11:30: Coffee break + poster session
 
