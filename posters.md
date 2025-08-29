@@ -6,7 +6,7 @@ header_image: Juan2.jpg
 ## Posters 
 
 ---
-- **Nonlinear Bayesian Probabilistic Numerical Methods are not Computing Bayesian Posteriors**.
+- **Non-Linear Bayesian Probabilistic Numerical Methods do not Compute Bayesian Posteriors**.
   - Marvin Pförtner. 
     <details>
     <summary><em>Abstract</em></summary>
