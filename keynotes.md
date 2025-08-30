@@ -3,7 +3,7 @@ layout: default
 title: "ProbNum25 : Keynotes"
 header_image: Juan2.jpg
 ---
-## Keynote 1 (September 1st, 10 am): 
+## Keynote 1 (September 1st, 10 am)
 - **Speaker**: [Samuel Kaski](https://kaski-lab.com/) (ELLIS Institute Finland, Aalto University and University of Manchester) 
 - **Title**: Amortized experimental design with expert in the loop
 - **Abstract**: I will discuss our recent machine learning contributions to the core engine of science, and research and development work in general, the design-build-test-learn loop. (Bayesian) automatic experimental design has been proposed for choosing the next measurement actions, but widespread use has been hampered by the required amount of computation. Expertise of domain experts is necessary, especially when data has high cost, and can be included as prior knowledge or as actively elicited preferences on the goals and what is important. As any data, data from experts is noisy but the "noise" is typically very different from other domains of multi-domain data, requiring user modelling. Amortization with neural approximations makes these computationally costly operations feasible.
