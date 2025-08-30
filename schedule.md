@@ -11,8 +11,14 @@ header_image: juan3.jpg
 ## 1st September, 2025 (Monday)  
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
-10:00 - 11:00: **Keynote: Samuel Kaski (ELLIS Institute Finland, Aalto University and University of Manchester)** 
-
+10:00 - 11:00: **Keynote** 
+- **Amortized experimental design with expert in the loop**.
+   - Samuel Kaski (ELLIS Institute Finland, Aalto University and University of Manchester)
+     <details>
+     <summary><em>Abstract</em></summary>
+     <p> I will discuss our recent machine learning contributions to the core engine of science, and research and development work in general, the design-build-test-learn loop. (Bayesian) automatic experimental design has been proposed for choosing the next measurement actions, but widespread use has been hampered by the required amount of computation. Expertise of domain experts is necessary, especially when data has high cost, and can be included as prior knowledge or as actively elicited preferences on the goals and what is important. As any data, data from experts is noisy but the "noise" is typically very different from other domains of multi-domain data, requiring user modelling. Amortization with neural approximations makes these computationally costly operations feasible.
+     </p>  </details>
+     
 11:00 - 11:30: Coffee break + poster session
 
 11:30 - 12:15: Talk + demo
