@@ -12,7 +12,8 @@ header_image: EURECOM-building-updated.jpg
 ProbNum 2025 welcomes researchers and practitioners interested in methods, theory and applications of Probabilistic Numerics for an open exchange of ideas.
 
 --- 
-## Venue, Dates and Registration
+#### Venue, Dates and Registration
+### Venue, Dates and Registration
 
 ProbNum 2025 will be held at **EURECOM** near Nice in southern France from **1-3 September 2025** ([Details](/venue.html)).  The event is open to all. Registration is now [open](https://probnum25.github.io/registration) (Deadline: **August 10**).
 
