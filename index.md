@@ -3,7 +3,7 @@ layout: default
 title: 'ProbNum25'
 header_image: EURECOM-building-updated.jpg
 ---
-## ProbNum 2025: The First International Conference on Probabilistic Numerics
+## ProbNum 2026: The First International Conference on Probabilistic Numerics
 ### 1st - 3rd September 2025, EURECOM, France
 
 
