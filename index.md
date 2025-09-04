@@ -3,16 +3,16 @@ layout: default
 title: 'ProbNum25'
 header_image: EURECOM-building-updated.jpg
 ---
-## ProbNum 2026: The First International Conference on Probabilistic Numerics
-### 1st - 3rd September 2025, EURECOM, France
+## ProbNum 2026: The 2nd International Conference on Probabilistic Numerics
+### 9&ndash;11 September 2026, EURECOM, France
 
 
-**ProbNum 2025** is an international conference on **Probabilistic Numerics**, methods for statistically solving numerical problems (optimisation, integration, solving differential equations) and probabilistically quantifying the numerical errors as computational uncertainties. Probabilistic Numerics make numerical algorithms faster, more reliable, and easier to design and use. They are developed and used in machine learning, artificial intelligence, scientific simulation and computational statistics. More details can be found below. 
+**ProbNum 2026** is an international conference on **Probabilistic Numerics**, methods for statistically solving numerical problems (optimisation, integration, solving differential equations) and probabilistically quantifying the numerical errors as computational uncertainties. Probabilistic Numerics make numerical algorithms faster, more reliable, and easier to design and use. They are developed and used in machine learning, artificial intelligence, scientific simulation and computational statistics. More details can be found below. 
 
 ProbNum 2025 welcomes researchers and practitioners interested in methods, theory and applications of Probabilistic Numerics for an open exchange of ideas.
 
 --- 
-### Venue, Dates and Registration
+## Venue, Dates and Registration
 
 ProbNum 2025 will be held at **EURECOM** near Nice in southern France from **1-3 September 2025** ([Details](/venue.html)).  The event is open to all. Registration is now [open](https://probnum25.github.io/registration) (Deadline: **August 10**).
 
