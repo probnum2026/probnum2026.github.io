@@ -36,8 +36,12 @@ ProbNum 2026 is the latest edition of a series of events on Probabilistic Numeri
 #### Organisers  
 
 - [Toni Karvonen](https://tskarvone.github.io) (LUT University, Finland)
-- [Filip Tronarp](https://filtron.github.io) (Lund University, Sweden)
+- [Jon Cockayne](https://joncockayne.me/) (University of Southampton, UK)
+- [Alexandra Gessner](https://github.com/alpiges) (Astrazeneca, Spain)
+- [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/) (University of Tuebingen, Germany)
 - [Wouter Kouw](https://wmkouw.github.io) (TU Eindhoven, Netherlands)
+- [Filip Tronarp](https://filtron.github.io) (Lund University, Sweden)
+
 
 ---
 #### Contact Information
