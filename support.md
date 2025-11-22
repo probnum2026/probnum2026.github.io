@@ -7,7 +7,8 @@ header_image: LUT.jpg
 ## Travel Support
 
 [The Magnus Ehrnrooth Foundation](https://magnusehrnroothinsaatio.fi/en/frontpage/) supports the participation of early-career researchers to ProbNum 2026.
-We will disribute a number of &#8364;1000 travel awards to doctoral students, postdoctoral researchers, and other early-career researchers.
+
+We will distribute a number of &#8364;1000 travel awards to doctoral students, postdoctoral researchers, and other early-career researchers.
 Researchers giving a talk or presenting a poster in the conference will be prioritised.
 You will receive the travel award after the conference via LUT University upon presentation of receipts.
 
