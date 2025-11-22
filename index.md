@@ -3,7 +3,7 @@ layout: default
 title: 'ProbNum26'
 header_image: LUT.jpg
 ---
-## ProbNum 2026: The 2nd International Conference on Probabilistic Numerics
+## **ProbNum 2026: The 2nd International Conference on Probabilistic Numerics**
 ### 9&ndash;11 September 2026 in Lappeenranta, Finland
 
 
