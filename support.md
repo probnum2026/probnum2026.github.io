@@ -4,7 +4,7 @@ title: "ProbNum 2026 &ndash; Travel Support"
 header_image: LUT.jpg
 ---
 
-## Travel Awards
+## Travel Support
 
 [The Magnus Ehrnrooth Foundation](https://magnusehrnroothinsaatio.fi/en/frontpage/) supports the participation of early-career researchers to ProbNum 2026.
 We will disribute a number of &#8364;1000 travel awards to doctoral students, postdoctoral researchers, and other early-career researchers.
