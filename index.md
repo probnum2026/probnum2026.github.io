@@ -17,8 +17,9 @@ ProbNum 2026 welcomes researchers and practitioners interested in methods, theor
 ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](https://www.lut.fi/en)** on **9&ndash;11 September 2026**. The event is open to all.
 
 --- 
-#### Publications as PMLR Proceedings
-- ProbNum 2026 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**. The submission deadline will be in spring 2026.
+#### Call for Papers
+- ProbNum 2026 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**. The submission deadline is **5th March 2026** (anywhere on Earth).
+- See [submission instructions][/submissions].
 - See the PMLR proceedings of ProbNum 2025 [here](https://proceedings.mlr.press/v271/).
 
 ---
