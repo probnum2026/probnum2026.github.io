@@ -47,7 +47,7 @@ ProbNum 2026 is the latest edition of a series of events on Probabilistic Numeri
 
 ---
 #### Contact Information
-Any questions can be sent to the organisers above, specifically as an email to [probnum2026@gmail.com](mailto:probnum2026@gmail.com).
+You can reach the organisers above by email at [probnum2026@gmail.com](mailto:probnum2026@gmail.com).
 
 ---
 

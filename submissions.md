@@ -72,7 +72,14 @@ Submitted manuscripts should not have been previously published in a journal or 
 Reviewer will be instructed to keep them confidential during the review process and delete them once the review process has concluded.
 
 ---
-### Reviewer nomination
+### Reviewer Nomination
 For each submission, the authors will be expected to nominate at least one of the authors as a reviewer for ProbNum26. Nominated reviewers are expected to have sufficient expertise in the relevant field.
 
 ---
+
+### Past Proceedings
+
+- ProbNum 2025: [PMLR 271](https://proceedings.mlr.press/v271/).
+
+---
+
