@@ -79,7 +79,7 @@ For each submission, the authors will be expected to nominate at least one of th
 
 ### Past Proceedings
 
-- ProbNum 2025: [PMLR 271](https://proceedings.mlr.press/v271/).
+- ProbNum 2025: [PMLR 271](https://proceedings.mlr.press/v271/)
 
 ---
 
