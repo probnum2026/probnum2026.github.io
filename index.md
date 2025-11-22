@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'ProbNum26'
+title: 'ProbNum 2026'
 header_image: LUT.jpg
 ---
 ## **ProbNum 2026: The 2nd International Conference on Probabilistic Numerics**
