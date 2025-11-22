@@ -9,7 +9,7 @@ header_image: LUT.jpg
 
 **ProbNum 2026** is an international conference on **Probabilistic Numerics**, methods for statistically solving numerical problems (optimisation, integration, solving differential equations) and probabilistically quantifying the numerical errors as computational uncertainties. Probabilistic Numerics make numerical algorithms faster, more reliable, and easier to design and use. They are developed and used in machine learning, artificial intelligence, scientific simulation and computational statistics. More details can be found below. 
 
-ProbNum 2026 welcomes researchers and practitioners interested in methods, theory and applications of Probabilistic Numerics for an open exchange of ideas.asd
+ProbNum 2026 welcomes researchers and practitioners interested in methods, theory and applications of Probabilistic Numerics for an open exchange of ideas.
 
 --- 
 #### Venue, Dates and Registration
@@ -36,6 +36,7 @@ ProbNum 2026 is the latest edition of a series of events on Probabilistic Numeri
 #### Organisers  
 
 - [Toni Karvonen](https://tskarvone.github.io) (LUT University, Finland)
+- [Nathanael Bosch](https://nathanaelbosch.github.io/) (EPFL, Switzerland)
 - [Jon Cockayne](https://joncockayne.me/) (University of Southampton, UK)
 - [Alexandra Gessner](https://github.com/alpiges) (Astrazeneca, Spain)
 - [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/) (University of Tuebingen, Germany)

@@ -1,36 +1,32 @@
 ---
 layout: default
-title: "ProbNum25 : Submissions"
-header_image: juan3.jpg
+title: "ProbNum26 : Submissions"
+header_image: LUT.jpg
 ---
-
-
-## Submissions Live!
-
-The [OpenReview site](https://openreview.net/group?id=ProbNum/2025/Conference) is now live for submissions with a deadline of **5th March 2025 (Anywhere on Earth)**.
-Please carefully read the [submission instructions](#submission-instructions) below before submitting.
 
 ## Call for Papers
 
-ProbNum25 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **5th of March 2025**.
+ProbNum26 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **5th of March 2026**.
 Subject areas are **methods, theory and applications** of probabilistic numerics. 
 The authors of accepted papers will present talks and/or posters at ProbNum25. 
 Details are as follows.
 
+
+
 ---
 ### Key Dates
 
-The current schedule, subject to revision, for submission and the review process is as follows. 
+The current schedule, subject to revision, for submission and the review process is as follows. All deadlines are anywhere on Earth.
 
-- **Submission Deadline:** 5th March 2025 (Anywhere on Earth).
-- **Reviews Released:** 9th April 2025.
-- **Responses Due:** 18th April 2025.
-- **Decisions:** 14th May 2025.
+- **Submission Deadline:** 5th March 2026
+- **Reviews Released:** 16th April 2026
+- **Responses Due:** 23th April 2026
+- **Decisions:** 14th May 2026
 
 ---
 ### Subject Areas
 
-ProbNum25 welcomes submissions on methods, theory and applications in Probabilistic Numerics or broader fields involving probabilistic quantification of estimation errors of deterministic quantities (computational uncertainties). Examples of topics are as follows.
+ProbNum26 welcomes submissions on methods, theory and applications in Probabilistic Numerics or broader fields involving probabilistic quantification of estimation errors of deterministic quantities (computational uncertainties). Examples of topics are as follows.
 
 **Methods (Algorithms)**
 - Probabilistic (Bayesian or non-Bayesian) numerical methods.
@@ -63,10 +59,10 @@ Shorter submissions are very welcome and will be equally considered. Any appendi
 Submissions must use the [**ProbNum LaTeX style package**](/files/ProbNum25_StylePack.zip). Detailed instructions can be found in the file *FormattingInstructions.tex* in this zip file. Please do not modify the style file. Formatting instructions are available in the sample paper provided with the style package.
 
 **Anonymization**  
-The ProbNum25 review process is double-blind. All submissions must be anonymized and may not contain any information that can violate the double-blind reviewing policy, such as the author names or their affiliations, acknowledgements, or links that can infer any author’s identity or institution. Self-citations are allowed as long as anonymity is preserved.
+The ProbNum26 review process is double-blind. All submissions must be anonymized and may not contain any information that can violate the double-blind reviewing policy, such as the author names or their affiliations, acknowledgements, or links that can infer any author’s identity or institution. Self-citations are allowed as long as anonymity is preserved.
 
 **Submission page**  
-The submission will be done via [OpenReview](https://openreview.net/group?id=ProbNum/2025/Conference).
+The submission will be done via OpenReview. **The OpenReview site will open by 30th January 2026.**
 Please upload a single file; you can either submit a single pdf file or a single zip file for further supplementary material in other formats.
 
 **Dual submissions**  
@@ -77,6 +73,6 @@ Reviewer will be instructed to keep them confidential during the review process 
 
 ---
 ### Reviewer nomination
-For each submission, the authors will be expected to nominate at least one of the authors as a reviewer for ProbNum25. Nominated reviewers are expected to have sufficient expertise in the relevant field.
+For each submission, the authors will be expected to nominate at least one of the authors as a reviewer for ProbNum26. Nominated reviewers are expected to have sufficient expertise in the relevant field.
 
 ---
