@@ -47,7 +47,7 @@ ProbNum 2026 is the latest edition of a series of events on Probabilistic Numeri
 
 ---
 #### Contact Information
-You can reach the organisers above by email at [conferences@probabilistic-numerics.org](mailto:conferences@probabilistic-numerics.org).
+You can reach the organisers above by email at [conferences@probabilistic-numerics.org](mailto:conferences@probabilistic-numerics.org)
 
 ---
 
