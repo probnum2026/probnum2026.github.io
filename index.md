@@ -14,7 +14,7 @@ ProbNum 2026 welcomes researchers and practitioners interested in methods, theor
 --- 
 #### Venue, Dates and Registration
 
-ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](https://www.lut.fi/en)** on **9&ndash;11 September 2026**. The event is open to all.
+ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](https://www.lut.fi/en)** on **9&ndash;11 September 2026**.
 
 --- 
 #### Call for Papers
