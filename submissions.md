@@ -4,13 +4,19 @@ title: "ProbNum 2026 &ndash; Submissions"
 header_image: LUT.jpg
 ---
 
+## Submissions Live!
+
+The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 5th March 2025 (anywhere on Earth). Please carefully read the submission instructions below before submitting.
+
+If you would like to review for ProbNum 2026, please fill in the [reviewer self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLSdMBkGISvwb1tpTjHsYScsFGeDLwkjQRjugopxicghmoUMqbA/viewform?usp=publish-editor).
+
+--
 ## Call for Papers
 
 ProbNum26 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **5th of March 2026**.
 Subject areas are **methods, theory and applications** of probabilistic numerics. 
 The authors of accepted papers will present talks and/or posters at ProbNum 2026. 
 Details are as follows.
-
 
 
 ---
@@ -62,7 +68,7 @@ Submissions must use the [**ProbNum LaTeX style package**](/files/ProbNum26_Styl
 The ProbNum26 review process is double-blind. All submissions must be anonymized and may not contain any information that can violate the double-blind reviewing policy, such as the author names or their affiliations, acknowledgements, or links that can infer any author’s identity or institution. Self-citations are allowed as long as anonymity is preserved.
 
 **Submission page**  
-The submission will be done via OpenReview. **The OpenReview site will open by 30th January 2026.**
+The submission is be done via [OpenReview](https://openreview.net/group?id=ProbNum/2026/Conference).
 Please upload a single file; you can either submit a single pdf file or a single zip file for further supplementary material in other formats.
 
 **Dual submissions**  
