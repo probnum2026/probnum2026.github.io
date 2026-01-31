@@ -16,7 +16,7 @@ Her work is centered around scalable and flexible methods for spatiotemporal sta
 
 Florian Schäfer is an assistant professor at the Courant Institute of Mathematical Sciences at New York University. He received his PhD in applied and computational mathematics at Caltech, working with Houman Owhadi. Before that, he received his Bachelor’s and Master’s degrees in Mathematics at the University of Bonn.
 
-His research interests lie at the interface of numerical computation, statistical inference, and competitive games.His current research focus is on developing information geometric mechanics that uses the statistical physical underpinnings of continuum mechanics to design structure preserving numerical methods at the macroscale.
+His research interests lie at the interface of numerical computation, statistical inference, and competitive games. His current research focus is on developing information geometric mechanics that uses the statistical physical underpinnings of continuum mechanics to design structure preserving numerical methods at the macroscale.
 
 ---
 
