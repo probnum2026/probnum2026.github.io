@@ -4,9 +4,7 @@ title: "ProbNum 2026 &ndash; Program"
 header_image: LUT.jpg
 ---
 
-## Plenaries
-
-#### [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
+#### Plenary 1: [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
 
 ![alt text](https://www.elizaveta-semenova.com/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_72526_270x270_fill_q75_lanczos_center.jpg "Title")
 
@@ -14,7 +12,9 @@ Elizaveta Semenova is a lecturer in Biostatistics, Computational Epidemiology an
 
 Her work is centered around scalable and flexible methods for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. Most recently, her focus has been on using deep generative modelling to power MCMC inference in classical spatial statistics.
 
-#### [Florian Schäfer](https://f-t-s.github.io/)
+---
+
+#### Plenary 2: [Florian Schäfer](https://f-t-s.github.io/)
 
 Florian Schäfer is an assistant professor at the Courant Institute of Mathematical Sciences at New York University. He received his PhD in applied and computational mathematics at Caltech, working with Houman Owhadi. Before that, he received his Bachelor’s and Master’s degrees in Mathematics at the University of Bonn.
 
@@ -22,7 +22,7 @@ His research interests lie at the interface of numerical computation, statistica
 
 ---
 
-## Conference Dinner
+#### Conference Dinner
 
 The conference dinner will take the form of a cruise on lake Saimaa on the [m/s Camilla](https://karelialines.fi/in-english/) on the evening of 10 September.
 
