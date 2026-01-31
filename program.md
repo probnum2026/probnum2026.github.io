@@ -4,9 +4,11 @@ title: "ProbNum 2026 &ndash; Program"
 header_image: LUT.jpg
 ---
 
-## Keynotes
+## Plenaries
 
 #### [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
+
+![alt text](https://www.elizaveta-semenova.com/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_72526_270x270_fill_q75_lanczos_center.jpg "Title")
 
 Elizaveta Semenova is a lecturer in Biostatistics, Computational Epidemiology and Machine Learning at Imperial College London, Department of Epidemiology and Biostatistics. She also holds Schmidt Sciences AI2050 Early Career Fellowship. In 2019 she completed a PhD in Epidemiology at the Swiss TPH.
 
