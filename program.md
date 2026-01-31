@@ -7,7 +7,7 @@ header_image: LUT.jpg
 #### Plenary 1: [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
 
 
-<img style="float: right;" src="https://www.elizaveta-semenova.com/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_72526_270x270_fill_q75_lanczos_center.jpg">
+<img style="float: left;" width = "300" src="https://www.elizaveta-semenova.com/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_72526_270x270_fill_q75_lanczos_center.jpg">
 
 Elizaveta Semenova is a lecturer in Biostatistics, Computational Epidemiology and Machine Learning at Imperial College London, Department of Epidemiology and Biostatistics. She also holds Schmidt Sciences AI2050 Early Career Fellowship. In 2019 she completed a PhD in Epidemiology at the Swiss TPH.
 
@@ -17,7 +17,7 @@ Her work is centered around scalable and flexible methods for spatiotemporal sta
 
 #### Plenary 2: [Florian Schäfer](https://f-t-s.github.io/)
 
-![alt text](https://www.elizaveta-semenova.com/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_72526_270x270_fill_q75_lanczos_center.jpg "Title")
+<img style="float: left;" width = "300" src="https://f-t-s.github.io/assets/img/prof_pic-800.webp">
 
 
 Florian Schäfer is an assistant professor at the Courant Institute of Mathematical Sciences at New York University. He received his PhD in applied and computational mathematics at Caltech, working with Houman Owhadi. Before that, he received his Bachelor’s and Master’s degrees in Mathematics at the University of Bonn.
