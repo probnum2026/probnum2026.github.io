@@ -28,7 +28,7 @@ If you would like to review for ProbNum 2026, please fill in the [reviewer self-
 
 #### Submissions Live!
 
-The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 5th March 2025 (anywhere on Earth). Please carefully read the [submission instructions](/submissions) below before submitting.
+The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 5th March 2025 (anywhere on Earth). Please carefully read the [submission instructions](/submissions) before submitting.
 
 ---
 #### Is ProbNum 2026 for me?
