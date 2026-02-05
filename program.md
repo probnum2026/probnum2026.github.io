@@ -23,7 +23,7 @@ His research interests lie at the interface of numerical computation, statistica
 #### Plenary 3: [Hong Ge](https://mlg.eng.cam.ac.uk/hong/)
 
 
-Hong Ge is a Research Professor at the University of Cambridge where he is a member of the Machine Learning Group at the University of Cambridge, part of the Computational and Biological Learning Lab in the Department of Engineering.
+Hong Ge is a Research Professor at the University of Cambridge, where he is a member of the Machine Learning Group, part of the Computational and Biological Learning Lab in the Department of Engineering.
 
 Together with his colleagues and he explores how intelligence works - mathematically and computationally. His current interests include Bayesian mathematics and neural networks. He also created the Turing probabilistic programming language.
 
