@@ -6,7 +6,7 @@ header_image: LUT.jpg
 
 ## Submissions Live!
 
-The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 5th March 2026 (anywhere on Earth). Please carefully read the submission instructions below before submitting.
+The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 26th March 2026 (anywhere on Earth). Please carefully read the submission instructions below before submitting.
 
 If you would like to review for ProbNum 2026, please fill in the [reviewer self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLSdMBkGISvwb1tpTjHsYScsFGeDLwkjQRjugopxicghmoUMqbA/viewform?usp=publish-editor).
 
@@ -24,7 +24,7 @@ Details are as follows.
 
 The current schedule, subject to revision, for submission and the review process is as follows. All deadlines are anywhere on Earth.
 
-- **Submission Deadline:** 5th March 2026
+- **Submission Deadline:** 5th March 2026 &emdash; <span style="color:red">**Extended to 26th March**</span>.
 - **Reviews Released:** 16th April 2026
 - **Responses Due:** 23th April 2026
 - **Decisions:** 14th May 2026
