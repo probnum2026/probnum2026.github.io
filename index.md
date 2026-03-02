@@ -26,7 +26,7 @@ ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](h
 
 #### Submissions Live!
 
-The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 5th March 2025 (anywhere on Earth). Please carefully read the [submission instructions](/submissions) before submitting.
+The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 26th March 2025 (anywhere on Earth). Please carefully read the [submission instructions](/submissions) before submitting.
 
 #### Reviewing
 
