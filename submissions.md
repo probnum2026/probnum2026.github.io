@@ -24,7 +24,7 @@ Details are as follows.
 
 The current schedule, subject to revision, for submission and the review process is as follows. All deadlines are anywhere on Earth.
 
-- **Submission Deadline:** 5th March 2026 &emdash; <span style="color:red">**Extended to 26th March**</span>.
+- **Submission Deadline:** 5th March 2026 — <span style="color:red">**Extended to 26th March**</span>
 - **Reviews Released:** 16th April 2026
 - **Responses Due:** 23th April 2026
 - **Decisions:** 14th May 2026
