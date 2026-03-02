@@ -13,7 +13,7 @@ If you would like to review for ProbNum 2026, please fill in the [reviewer self-
 ---
 ## Call for Papers
 
-ProbNum26 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **5th of March 2026**.
+ProbNum26 will have a dedicated volume in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press), where accepted papers will be published. A submission should be up to **8 pages (or shorter)** using dedicated style files (appendix excluded). The submission deadline is scheduled for the **26th of March 2026**.
 Subject areas are **methods, theory and applications** of probabilistic numerics. 
 The authors of accepted papers will present talks and/or posters at ProbNum 2026. 
 Details are as follows.
