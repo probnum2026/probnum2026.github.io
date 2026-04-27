@@ -17,7 +17,7 @@ ProbNum 2026 welcomes researchers and practitioners interested in methods, theor
 ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](https://www.lut.fi/en)** on **9&ndash;11 September 2026**. 
 
 - Registration will open in May 2026.
-- Early-career researchers can apply for travel awards until <span style="color:red">**Extended to 7th June.**</span> See [here for instructions](/support).
+- Early-career researchers can apply for travel awards until **7th June.** See [here for instructions](/support).
 
 --- 
 
