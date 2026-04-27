@@ -19,7 +19,7 @@ To apply for a travel award, send an email to [toni.karvonen@lut.fi](mailto:toni
 You should
 - Briefly describe your motivation for attending ProbNum 2026. 
 - Attach a CV.
-- State in the email you intend to present a paper submitted to the ProbNum proceedings or plan to submit a poster presentation. Include the title and abstract of the said paper or poster.
+- State if you intend to present a paper submitted to the ProbNum proceedings or plan to submit a poster presentation. Include the title and abstract of the said paper or poster.
 
 You will be informed of the decision by 17th June.
 
