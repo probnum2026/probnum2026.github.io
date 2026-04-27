@@ -15,7 +15,7 @@ We will distribute a number of travel awards to doctoral students, postdoctoral 
 
 #### How to apply ####
 
-To apply for a travel award, send an email to [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) with the title "ProbNum 2026: Travel award" by **7th June (anywhere on Earth)**. You will receive receipt of acknowledgement.
+To apply for a travel award, send an email to [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) with the title "ProbNum 2026: Travel award" by **7th June (anywhere on Earth)**. You will be sent a receipt of acknowledgement.
 You should
 - Briefly describe your motivation for attending ProbNum 2026. 
 - Attach a CV.
