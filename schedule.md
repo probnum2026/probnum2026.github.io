@@ -31,7 +31,7 @@ header_image: LUT.jpg
 
 14&ndash;17: Presentations
 
-18&ndash;21: Conference dinner aboard M/S Camilla
+18&ndash;21: Conference dinner as a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/).
 
 #### 11 September, 2026 (Friday)
 
