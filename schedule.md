@@ -5,7 +5,6 @@ header_image: LUT.jpg
 ---
 
 ## Tentative schedule  
----
 
 #### 9 September, 2026 (Wednesday)
 
@@ -21,6 +20,8 @@ header_image: LUT.jpg
 
 17&ndash;19: Poster session & ice breaker
 
+---
+
 #### 10 September, 2026 (Thursday)
 
 09&ndash;12: Presentations
@@ -31,7 +32,9 @@ header_image: LUT.jpg
 
 14&ndash;17: Presentations
 
-18&ndash;21: Conference dinner as a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/).
+18&ndash;21: Conference dinner in the form of a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/).
+
+---
 
 #### 11 September, 2026 (Friday)
 
