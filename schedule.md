@@ -1,14 +1,18 @@
 ---
 layout: default
-title: "ProbNum25 : Schedule"
-header_image: juan3.jpg
+title: "ProbNum 2026 &ndash; Schedule"
+header_image: LUT.jpg
 ---
 
-
-# Schedule  
+## Tentative schedule  
 ---
 
-## 1st September, 2025 (Monday)  
+### 1st September, 2025 (Monday)  
+
+09&ndash;10: **ELLIS Distinguished Talk** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
+10&ndash;12: Opening & presentations
+12&ndash;13: Lunch
+
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
 10:00 - 11:00: **Keynote** 
