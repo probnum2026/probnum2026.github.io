@@ -10,8 +10,13 @@ header_image: LUT.jpg
 ### 1st September, 2025 (Monday)  
 
 09&ndash;10: **ELLIS Distinguished Talk** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
+
 10&ndash;12: Opening & presentations
+
 12&ndash;13: Lunch
+
+13&ndash;14: [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
+
 
 Bus: Antibes (9:00, place de gaulle) -> EURECOM
 
