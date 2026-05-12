@@ -6,6 +6,8 @@ header_image: LUT.jpg
 
 ## Tentative schedule  
 
+---
+
 #### 9 September, 2026 (Wednesday)
 
 09&ndash;10: **ELLIS Distinguished Talk** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)

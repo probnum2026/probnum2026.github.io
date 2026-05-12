@@ -4,7 +4,9 @@ title: "ProbNum 2026 &ndash; Program"
 header_image: LUT.jpg
 ---
 
-## Program
+### Plenaries
+
+There will be three plenaries delivered by Elizaveta Semenova, Florian Schäfer and Hong Ge.
 
 #### Plenary 1: [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
 
@@ -31,7 +33,7 @@ Together with his colleagues and he explores how intelligence works - mathematic
 
 ---
 
-#### Conference Dinner
+### Conference Dinner
 
 The conference dinner will take the form of a cruise on lake Saimaa on the [m/s Camilla](https://karelialines.fi/in-english/) on the evening of 10 September.
 
