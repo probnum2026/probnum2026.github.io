@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "ProbNum 2026 &ndash; Travel Support"
+title: "ProbNum 2026 &ndash; Travel Awards"
 header_image: LUT.jpg
 ---
 
-## Travel Support
+## Travel Awards
 
 [The Magnus Ehrnrooth Foundation](https://magnusehrnroothinsaatio.fi/en/frontpage/) supports the participation of early-career researchers to ProbNum 2026.
 
