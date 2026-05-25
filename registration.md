@@ -1,21 +1,24 @@
 ---
 layout: default
-title: "ProbNum25 : Registration"
-header_image: juan3.jpg
+title: "ProbNum 2026 &ndash; Travel Awards"
+header_image: LUT.jpg
 ---
 
-# Registration Fee Information and Deadline
-The registration fee is **350 EUR**, and should be paid on the payment website below. The registration and payment deadline is **August 10, 2025**, and no refunds will be issued after payment.  
+## Registration
 
-# Registration 
-~~Please complete both registration and payment below~~
+Registration for ProbNum 2026 is open. Registration closes on 26 August 2026.
 
-**Registration is closed (August 11, 2025)**.  Please contact the organisers for any questions. 
+- **Participation without conference dinner: &#8364;140.** Participation without conference dinner includes scientific program and get-together event. The price includes fee of the social program &#8364;43.82 + VAT 25.5 % (&#8364;11.18 €) and conference fee VAT 0 %.
 
+- **Participation with conference dinner: 250 EUR.** Participation with conference dinner covers attendance to scientific program, get-together event and the conference dinner. The price includes fee of the social program &#8364;131.47 + VAT 25.5% (&#8364;33.53) and conference fee VAT 0%.
+ 
+Registration can be paid by a credit card (Visa, Master Card). Invoicing the fee is not possible.
+ 
+Cancellations with full reimbursement are accepted until 9 August 2026. For cancellations submitted between 10 of August 2026 and 19 August 2026, a 50% refund will be issued. No refunds will be granted for cancellations made after 19 August 2026. Please contact [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) for cancellations.
+ 
+[**Please register here.**](https://www.lyyti.in/ProbNum_2026_The_2nd_International_Conference_on_Probabilistic_Numerics_7802)
 
-- ~~[Please make your registration here](https://docs.google.com/forms/d/e/1FAIpQLSfqxgl9gLVwdIZXJzY1VMEJKKpfC-DbU-lVVFc9iBt62riEPA/viewform?usp=header)~~
-
-- ~~[Registration fee payment should be done here]~~
+## Poster submission
  
 --- 
 
