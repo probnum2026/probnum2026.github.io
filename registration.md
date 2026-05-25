@@ -14,7 +14,7 @@ Registration for ProbNum 2026 is open. Registration closes on 26th August 2026.
  
 Registration can be paid by a credit card (Visa, Master Card). Invoicing the fee is not possible.
  
-Cancellations with full reimbursement are accepted until 9th August 2026. For cancellations submitted between 10th August 2026 and 19th August 2026, a 50% refund will be issued. No refunds will be granted for cancellations made after 19th August 2026. Please contact [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) for cancellations.
+Cancellations with full reimbursement are accepted until 9th August 2026. For cancellations submitted between 10th August 2026 and 19th August 2026, a 50% refund will be issued. No refunds will be granted for cancellations made after 19th August 2026. Please contact [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) for cancellations and any questions about registration.
  
 [**Please register here.**](https://www.lyyti.in/ProbNum_2026_The_2nd_International_Conference_on_Probabilistic_Numerics_7802)
 
