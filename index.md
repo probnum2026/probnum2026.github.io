@@ -17,12 +17,12 @@ ProbNum 2026 welcomes researchers and practitioners interested in methods, theor
 ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](https://www.lut.fi/en)** on **9&ndash;11 September 2026**. 
 
 - Registration will open in May 2026.
-- <span style="color:red">Early-career researchers can now apply for travel awards until 7th June.</span> See [here for instructions](/support).
+- <span style="color:red">Early-career researchers can now apply for travel awards until 11th June.</span> See [here for instructions](/support).
 
 --- 
 
 #### Call for Papers
-- ProbNum 2026 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**. The submission deadline is **5th March 2026** (anywhere on Earth). <span style="color:red">**Extended to 26th March.**</span>
+- ProbNum 2026 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**.
 - See [submission instructions](/submissions).
 - See the PMLR proceedings of ProbNum 2025 [here](https://proceedings.mlr.press/v271/).
 - We will also offer an opportunity to present work published elsewhere.
@@ -31,9 +31,9 @@ ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](h
 
 The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 26th March 2025 (anywhere on Earth). Please carefully read the [submission instructions](/submissions) before submitting.
 
-#### Reviewing
+<!-- #### Reviewing
 
-If you would like to review for ProbNum 2026, please fill in the [reviewer self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLSdMBkGISvwb1tpTjHsYScsFGeDLwkjQRjugopxicghmoUMqbA/viewform?usp=publish-editor).
+If you would like to review for ProbNum 2026, please fill in the [reviewer self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLSdMBkGISvwb1tpTjHsYScsFGeDLwkjQRjugopxicghmoUMqbA/viewform?usp=publish-editor). -->
 
 ---
 #### Is ProbNum 2026 for me?
