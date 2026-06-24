@@ -20,9 +20,19 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 ### How to reach the conference venue
 
 - The conference will take place at the Lappeenranta Campus of LUT University (Yliopistonkatu 34), about 7 km from central Lappeenranta where most hotels are located.
-- Bus line 5 operates between the railway station, city center and the campus. The ride from city center takes about 20 minutes. A single ticket costs &#8364;3.60. Tickets can be bought onboard with cash or card. [[Public Transport in Lappeenranta](https://lappeenranta.fi/en/public-transport)] [[Journey Planner](https://lappeenranta.digitransit.fi/?locale=en)]
+- **Bus line 5** operates between the railway station, city center and the campus. The ride from city center takes about 20 minutes. A single ticket costs &#8364;3.60. Tickets can be bought onboard with cash or card. [[Public Transport in Lappeenranta](https://lappeenranta.fi/en/public-transport)] [[Journey Planner](https://lappeenranta.digitransit.fi/?locale=en)]
 
 ### Hotels
+
+Hotels in Lappeenranta:
+- [Original Sokos Hotel Lappee](https://www.sokoshotels.fi/en/hotels/lappeenranta/original-sokos-hotel-lappee)
+- [Scandic Patria](https://www.scandichotels.com/en/hotels/scandic-patria)
+- [Hotelli Rakuuna](https://www.rakuunahotelli.fi/en/)
+- [Hotelli Lähde](https://hotellilahde.fi/en/)
+
+Somewhat cheaper options:
+- [Gasthaus Kantolankulma](https://gasthauslappeenranta.com/?lang=en)
+- [CitiMOTEL](https://www.citimotel.fi/en/home)
 
 ### Saunas in Lappeenranta
 
