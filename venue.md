@@ -5,10 +5,8 @@ header_image: LUT.jpg
 ---
 ## Venue
 
-**ProbNum 2026** will take place at the **Lappeenranta Campus of LUT University**. The campus is situated in Lappeenranta in Eastern Finland.
+ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Yliopistonkatu 34, 53850 Lappeenranta). The campus is situated in Lappeenranta in Eastern Finland.
 
-### Address
-Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
 
 <iframe src="https://maps.app.goo.gl/JX4vEdXyf8uyUFCSA" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
