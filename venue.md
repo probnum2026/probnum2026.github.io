@@ -13,7 +13,7 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 
 ### How to reach Lappeenranta
 
-- In most cases you should fly to **Helsinki Airport** and take a train. The train ride takes about 2 hours and involves a change from a local train to an intercity train in Tikkurila near Helsinki Airport.
+- In most cases you should fly to **Helsinki Airport** and take a train from the airport to Lappeenranta. The train ride takes about 2 hours and involves a change from a local train to an intercity train in Tikkurila near Helsinki Airport.
 - You must have a seat reservation. Book your tickets from Helsinki Airport to Lappeenranta at [VR.fi](https://www.vr.fi/en/single-ticket-outbound-search-results?from=LEN&to=LR).
 - To reach the intercity transfer station in Tikkurila you should catch the local P train at the Helsinki Airport Station (Lentoasema). If you have not bought a ticket all the way from the airport to Lappeenranta, you need a local BC or CD ticket to reach Tikkurila. Tickets cannot be bought onboard the local train. See [HSL.fi](https://reittiopas.hsl.fi/etusivu?locale=en) for more information.
 
