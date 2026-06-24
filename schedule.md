@@ -6,6 +6,8 @@ header_image: LUT.jpg
 
 ## **Tentative schedule**
 
+The conference will be held at the Lappeenranta Campus of LUT University ([Yliopistonkatu 34, 53850 Lappeenranta](https://maps.app.goo.gl/T1kWcn4ZjDgJbTr76)). 
+
 ---
 
 #### 9 September, 2026 (Wednesday)
@@ -89,6 +91,6 @@ Philipp Hennig is the Professor for the Methods of Machine Learning at the Unive
 
 ## **Conference Dinner**
 
-The conference dinner will take the form of a cruise on lake Saimaa on the [m/s Camilla](https://karelialines.fi/in-english/) on the evening of 10th September.
+The conference dinner will take the form of a cruise on lake Saimaa on the [m/s Camilla](https://karelialines.fi/in-english/) on the evening of 10th September. You must register for the dinner in advance.
 
 ---
