@@ -24,7 +24,7 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 14&ndash;17: Presentations
 
-17&ndash;19: Poster session & ice breaker
+17&ndash;19: Poster session & ice breaker (posters will remain visible throughout the conference)
 
 ---
 
