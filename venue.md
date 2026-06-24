@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "ProbNum25 : Venue"
-header_image: Juan2.jpg
+title: "ProbNum 2026 &ndash; Venue"
+header_image: LUT.jpg
 ---
 ## Venue
 
-**ProbNum25** will take place at **EURECOM**, a French graduate school near Nice in southern France. 
+**ProbNum 2026** will take place at the **Lappeenranta Campus of LUT University**. The campus is situated in Lappeenranta in Eastern Finland.
 
 ### Address
 Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2264.2592851003337!2d7.068550075238041!3d43.61438597110395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc2bbceb8ef3b9%3A0x22dae297f1be6add!2sEurecom!5e1!3m2!1sen!2sfr!4v1729700049708!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://maps.app.goo.gl/JX4vEdXyf8uyUFCSA" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
