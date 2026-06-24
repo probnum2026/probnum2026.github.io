@@ -38,7 +38,7 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 14&ndash;17: Presentations
 
-18&ndash;21: Conference dinner in the form of a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/).
+18&ndash;21: Conference dinner in the form of a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/). The ship will depart from [Lappeenranta Harbour](https://maps.app.goo.gl/qQrcYJ5XQenHpBAW6).
 
 ---
 
