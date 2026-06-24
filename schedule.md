@@ -9,13 +9,18 @@ header_image: LUT.jpg
 
 #### 9 September, 2026 (Wednesday)
 
-09&ndash;10: **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
+09&ndash;10: Registration & coffee
 
-10&ndash;12: Opening & presentations
+10&ndash;11: **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
+
+11&ndash;12: Opening & presentations
 
 12&ndash;13: Lunch
 
 13&ndash;14: **Plenary** by [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
+<details>
+    <summary><em>Abstract</em></summary>
+    <p>Despite the significance of probabilistic time-series forecasting models, their evaluation metrics often involve intractable integrations. The most widely used metric, the continuous ranked probability score (CRPS), is a strictly proper scoring function; however, its computation requires approximation. We found that popular CRPS estimators—specifically, the quantile-based estimator implemented in the widely used GluonTS library and the probability-weighted moment approximation—both exhibit inherent estimation biases. These biases lead to crude approximations, potentially resulting in improper rankings of forecasting model performance. To address this, we introduced a kernel quadrature approach that leverages an unbiased CRPS estimator and employs cubature construction for scalable computation. Empirically, our approach consistently outperforms the two widely used CRPS estimators.</p>  </details>  
 
 14&ndash;17: Presentations
 
