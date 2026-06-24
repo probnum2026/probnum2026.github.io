@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ProbNum 2026 &ndash; Program"
+title: "ProbNum 2026 &ndash; Programme"
 header_image: LUT.jpg
 ---
 
