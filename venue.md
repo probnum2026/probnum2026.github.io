@@ -34,8 +34,14 @@ Somewhat cheaper options:
 - [Gasthaus Kantolankulma](https://gasthauslappeenranta.com/?lang=en)
 - [CitiMOTEL](https://www.citimotel.fi/en/home)
 
-### Saunas in Lappeenranta
+It is also possible to book small cottages (bed sheets not included):
+- [Camping Lappeenranta](https://campinglappeenranta.fi/en/)
 
+### Public saunas in Lappeenranta
+
+- [Myllysaaren sauna](https://livelife.fi/sauna-avanto/) is located a short walk from the city center. [[Google Maps](https://maps.app.goo.gl/nAtUcECJHGGNgsME9)]
+- [Traditional smoke sauna](https://www.saimaansaunaseura.fi/?page_id=16) in Hinkanranta about 25 km from Lappeenranta. [[Google Maps](https://maps.app.goo.gl/TbjBSXn2hfzdtXvh8)]
+- [Hinkanrannan saunat](https://www.hinkanrannansaunat.fi/english) in Hinkanranta about 25 km from Lappeenranta. [[Google Maps](https://maps.app.goo.gl/TbjBSXn2hfzdtXvh8)]
 
 
 
