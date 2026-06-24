@@ -54,6 +54,12 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 --- 
 
+## **Conference Dinner**
+
+The conference dinner will take the form of a cruise on lake Saimaa on the [m/s Camilla](https://karelialines.fi/in-english/) on the evening of 10th September. You must register for the dinner in advance.
+
+---
+
 ## **Plenaries**
 
 There will be three plenaries delivered by Elizaveta Semenova, Florian Schäfer and Hong Ge.
@@ -88,9 +94,5 @@ Before the start of the conference Philipp Hennig from the University of Tübing
 #### ELLIS Distinguished Lecture: [Philipp Hennig](http://mml.cs.uni-tuebingen.de/) (10&ndash;11 on 9 September)
 
 Philipp Hennig is the Professor for the Methods of Machine Learning at the University of Tübingen, and Director of the Tübingen AI Center. Since his PhD with Sir David MacKay in Cambridge, he is interested in the connections between inference and computation, which led him to establish, with international collaborators, the field of probabilistic numerics. Hennig is a Fellow of ELLIS, where he co-directs the Research Program for Theory, Algorithms and Computations for modern learning machines. His work was supported, among others, by Emmy Noether and Max Planck Fellowships, and two ERC grants.
-
-## **Conference Dinner**
-
-The conference dinner will take the form of a cruise on lake Saimaa on the [m/s Camilla](https://karelialines.fi/in-english/) on the evening of 10th September. You must register for the dinner in advance.
 
 ---
