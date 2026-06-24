@@ -50,7 +50,7 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 12&ndash;13: Lunch
 
-13&ndash;14: Conclusion
+13&ndash;14: Presentations & conclusion
 
 --- 
 
