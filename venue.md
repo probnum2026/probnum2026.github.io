@@ -48,6 +48,7 @@ It is also possible to book small cottages (bed sheets not included):
 - [Myllysaaren sauna](https://livelife.fi/sauna-avanto/) is located a short walk from the city center. [[Google Maps](https://maps.app.goo.gl/nAtUcECJHGGNgsME9)]
 - [Traditional smoke sauna](https://www.saimaansaunaseura.fi/?page_id=16) in Hinkanranta about 25 km from Lappeenranta. [[Google Maps](https://maps.app.goo.gl/TbjBSXn2hfzdtXvh8)]
 - [Hinkanrannan saunat](https://www.hinkanrannansaunat.fi/english) in Hinkanranta about 25 km from Lappeenranta. [[Google Maps](https://maps.app.goo.gl/TbjBSXn2hfzdtXvh8)]
+- [Konstun majan sauna](https://www.piensaimaansaunojat.fi/) in Taipalsaari about 12 km from Lappeenranta. [[Google Maps](https://www.piensaimaansaunojat.fi/)]
 
 ---
 
