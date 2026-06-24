@@ -17,10 +17,14 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 - You must have a seat reservation. Book your tickets from Helsinki Airport to Lappeenranta at [VR.fi](https://www.vr.fi/en/single-ticket-outbound-search-results?from=LEN&to=LR).
 - To reach the intercity transfer station in Tikkurila you should catch the local P train at the Helsinki Airport Station (Lentoasema). If you have not bought a ticket all the way from the airport to Lappeenranta, you need a local BC or CD ticket to reach Tikkurila. Tickets cannot be bought onboard the local train. See [HSL.fi](https://reittiopas.hsl.fi/etusivu?locale=en) for more information.
 
+---
+
 ### How to reach the conference venue
 
 - The conference will take place at the Lappeenranta Campus of LUT University (Yliopistonkatu 34), about 7 km from central Lappeenranta where most hotels are located.
 - **Bus line 5** operates between the railway station, city center and the campus. The ride from city center takes about 20 minutes. A single ticket costs &#8364;3.60. Tickets can be bought onboard with cash or card. [[Public Transport in Lappeenranta](https://lappeenranta.fi/en/public-transport)] [[Journey Planner](https://lappeenranta.digitransit.fi/?locale=en)]
+
+---
 
 ### Hotels
 
@@ -37,13 +41,15 @@ Somewhat cheaper options:
 It is also possible to book small cottages (bed sheets not included):
 - [Camping Lappeenranta](https://campinglappeenranta.fi/en/)
 
+---
+
 ### Public saunas in Lappeenranta
 
 - [Myllysaaren sauna](https://livelife.fi/sauna-avanto/) is located a short walk from the city center. [[Google Maps](https://maps.app.goo.gl/nAtUcECJHGGNgsME9)]
 - [Traditional smoke sauna](https://www.saimaansaunaseura.fi/?page_id=16) in Hinkanranta about 25 km from Lappeenranta. [[Google Maps](https://maps.app.goo.gl/TbjBSXn2hfzdtXvh8)]
 - [Hinkanrannan saunat](https://www.hinkanrannansaunat.fi/english) in Hinkanranta about 25 km from Lappeenranta. [[Google Maps](https://maps.app.goo.gl/TbjBSXn2hfzdtXvh8)]
 
-
+---
 
  
  
