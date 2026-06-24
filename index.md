@@ -16,8 +16,8 @@ ProbNum 2026 welcomes researchers and practitioners interested in methods, theor
 
 ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](https://www.lut.fi/en)** on **9&ndash;11 September 2026**. 
 
-- <span style="color:red">Registration is now open.</span> Register by 26th August. All participants are welcome to submit a poster. [Register here and submit a poster here.](/registration)
-- <span style="color:red">Early-career researchers can now apply for travel awards until 11th June.</span> See [here for instructions](/support).
+- **Registration is now open. Register by 26th August.** [Register here.](/registration)
+- **All participants are welcome to submit a poster.** [Submit a poster here.](/registration)
 
 --- 
 
