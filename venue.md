@@ -31,7 +31,7 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 Hotels in Lappeenranta:
 - [Original Sokos Hotel Lappee](https://www.sokoshotels.fi/en/hotels/lappeenranta/original-sokos-hotel-lappee): We have an allotment for the period 8&ndash;11 September 2026. Use the code **BPROBNUM26** to reserve your room by 18 August. Prices per night: &#8364;119 / 1 person standard &mdash; &#8364;139 / 2 persons standard &mdash; &#8364;159 / 1 person superior &mdash; &#8364;179 / 2 persons standard.
 - [Hotelli Rakuuna](https://www.rakuunahotelli.fi/en/): We have an allotment for the period 8&ndash;11 September 2026. Reservations from this allotment must be made by 9 August 2026. The room price is &#8364;101/single room and &#8364;111/double room with the code **Probnum**. Reservations must be made directly with the hotel either by email info@rakuunahotelli.fi or by calling +358 10 340 2040. The room can be cancelled free of charge by 6 pm the day before arrival.
-- [Scandic Patria](https://www.scandichotels.com/en/hotels/scandic-patria): Use the code **CCON** for a discount. [[Link](https://www.scandichotels.com/en?bookingCode=CCON)]
+- [Scandic Patria](https://www.scandichotels.com/en/hotels/scandic-patria): Use the code **CCON** for a discount. [[Link with code](https://www.scandichotels.com/en?bookingCode=CCON)]
 - [Hotelli Lähde](https://hotellilahde.fi/en/)
 
 Somewhat cheaper options:
