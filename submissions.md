@@ -4,7 +4,7 @@ title: "ProbNum 2026 &ndash; Submissions"
 header_image: LUT.jpg
 ---
 
-## Submissions Live!
+## **Submissions Live!**
 
 The [OpenReview site](https://openreview.net/group?id=ProbNum/2026/Conference) is now live for submissions with a deadline of 26th March 2026 (anywhere on Earth). Please carefully read the submission instructions below before submitting.
 
