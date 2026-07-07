@@ -11,7 +11,7 @@ header_image: LUT.jpg
 - **Bayesian Inference of Discretization Error Means in ODEs via Ensemble Kalman Filtering** by Shoji Toyota, Yuto Miyatake
 - **Modelling Gas-Phase Reaction Kinetics with Guided Particle Diffusion Sampling** by Andrew Millard, Zheng Zhao, Henrik Pedersen
 - **Inter-Domain Gaussian Processes with Arbitrary Mean Functions in Factor Graphs** by Alex Ledbetter, Hoang Minh Huu Nguyen, Lucas Carolus van Laake, Irene A. Kuling, Yoeri van de Burgt, Thijs van de Laar
-- **Physics-informed machine learning for wind turbulence reconstruction with lidar under aircraft motion** by Amaury Capmas-Pernet, Christian Musso, Frédéric Dambreville, Tomline Michel
+- **Physics-Informed Machine Learning for Wind Turbulence Reconstruction with Lidar under Aircraft Motion** by Amaury Capmas-Pernet, Christian Musso, Frédéric Dambreville, Tomline Michel
 - **Calibrating Black-Box Probabilistic Numerical Methods** by Chris J. Oates, Juntao Chen, Markus Michael Rau
 - **Composing Non-Conjugate Factor Graphs with Closed-Form Variational Inference** by Mykola Lukashchuk, Kyrylo Yemets, Wouter M. Kouw, Dmitry Bagaev, Ismail Senoz, Jeff Beck, Bert de Vries
 - **Initial value problem uncertainty propagation in ODEs** by Mathias Van Gompel, Tom Colemont, Tjonnie G.-F. Li, Johan Suykens, Frederik De Ceuster
