@@ -7,7 +7,7 @@ header_image: LUT.jpg
 ## **Accepted papers**
 
 - **BayesSum: Bayesian Quadrature in Discrete Spaces**
-- By Sophia Seulkee Kang, Francois-Xavier Briol, Toni Karvonen, Zonghao Chen
+  - By Sophia Seulkee Kang, Francois-Xavier Briol, Toni Karvonen, Zonghao Chen
 
 
 ---
