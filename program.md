@@ -4,7 +4,7 @@ title: "ProbNum 2026 &ndash; Programme"
 header_image: LUT.jpg
 ---
 
-## **Tentative schedule**
+## **Tentative programme**
 
 The conference will be held at the Lappeenranta Campus of LUT University ([Yliopistonkatu 34, 53850 Lappeenranta](https://maps.app.goo.gl/T1kWcn4ZjDgJbTr76)). 
 
