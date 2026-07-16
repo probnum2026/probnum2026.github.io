@@ -8,9 +8,9 @@ header_image: LUT.jpg
 
 Registration for ProbNum 2026 is open. Registration closes on 26th August 2026.
 
-- **Participation without conference dinner: &#8364;140.** Participation without conference dinner includes scientific program and get-together event (9th September). The price includes fee of the social program &#8364;43.82 + VAT 25.5 % (&#8364;11.18 €) and conference fee VAT 0 %.
+- **Participation without conference dinner: &#8364;140.** Participation without conference dinner includes scientific program and get-together event (9th September), as well as lunches and coffee breaks. The price includes fee of the social program &#8364;43.82 + VAT 25.5 % (&#8364;11.18 €) and conference fee VAT 0 %.
 
-- **Participation with conference dinner: &#8364;250.** Participation with conference dinner covers attendance to scientific program, get-together event (9th September) and the conference dinner (10th September). The price includes fee of the social program &#8364;131.47 + VAT 25.5% (&#8364;33.53) and conference fee VAT 0%.
+- **Participation with conference dinner: &#8364;250.** Participation with conference dinner covers attendance to scientific program, get-together event (9th September) and the conference dinner (10th September), as well as lunches and coffee breaks. The price includes fee of the social program &#8364;131.47 + VAT 25.5% (&#8364;33.53) and conference fee VAT 0%.
 
 - **If you are pursuing a bachelor's or master's degree at LUT** and would like to take part in the conference, please contact [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) for a reduced registration fee.
  

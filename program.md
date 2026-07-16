@@ -13,45 +13,42 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 #### 9 September, 2026 (Wednesday)
 
 09:00&ndash;10:00 Registration & coffee <br> 
-10:00&ndash;11:00 **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
-
-11&ndash;12: Opening & presentations
-
-12&ndash;13: Lunch
-
-13&ndash;14: **Plenary** by [Elizaveta Semenova](https://www.elizaveta-semenova.com/)
-
-14&ndash;17: Presentations
-
-17&ndash;19: Poster session & ice breaker (posters will remain visible throughout the conference)
+10:00&ndash;11:00 **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) <br> 
+11:00&ndash;11:20 Break & conference opening <br>
+11:20&ndash;12:00 Presentations <br>
+12:00&ndash;13:00 Lunch <br>
+13:00&ndash;14:00 **Plenary** by [Elizaveta Semenova](https://www.elizaveta-semenova.com/) <br>
+14:00&ndash;14:40 Presentations <br>
+14:40&ndash;15:30 Coffee <br>
+15:30&ndash;17:00 Research speed dating <br>
+17:00&ndash;19:00 Poster session & ice breaker (posters will remain visible throughout the conference) <br>
 
 ---
 
 #### 10 September, 2026 (Thursday)
 
-09&ndash;12: Presentations
+09:00&ndash;10:30 Tutorial <br>
+10:30&ndash;11:00 Coffee <br>
+11:00&ndash;12:00 Presentations <br>
+12:00&ndash;13:00 Lunch <br>
+13:00&ndash;14:00 **Plenary** by [Florian Schäfer](https://f-t-s.github.io/) <br>
+14:00&ndash;14:40 Presentations <br>
+14:40&ndash;15:30 Coffee <br>
+15:30&ndash;16:30 Presentations
 
-12&ndash;13: Lunch
-
-13&ndash;14: **Plenary** by [Florian Schäfer](https://f-t-s.github.io/)
-
-14&ndash;17: Presentations
-
-18&ndash;21: Conference dinner in the form of a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/). The ship will depart from [Lappeenranta Harbour](https://maps.app.goo.gl/qQrcYJ5XQenHpBAW6).
+18:00&ndash;21:00: Conference dinner in the form of a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/). The ship will depart from [Lappeenranta Harbour](https://maps.app.goo.gl/qQrcYJ5XQenHpBAW6).
 
 ---
 
 #### 11 September, 2026 (Friday)
 
-09&ndash;11: Presentations
-
-11&ndash;12: **Plenary** by [Hong Ge](https://mlg.eng.cam.ac.uk/hong/)
-
-12&ndash;13: Lunch
-
-13&ndash;14: Presentations & conclusion
-
-14&ndash;17: Breakout sessions
+09:00&ndash;09:30 Tutorial <br>
+09:30&ndash;10:30 Presentations <br>
+10:30&ndash;11:00 Coffee <br>
+11:00&ndash;12:00 **Plenary** by [Hong Ge](https://mlg.eng.cam.ac.uk/hong/)
+12:00&ndash;12:15 **Conclusion of the main conference**<br>
+12:15&ndash;13:30 Lunch <br>
+13:30&ndash;17:00 Breakout sessions & coffee
 
 --- 
 
