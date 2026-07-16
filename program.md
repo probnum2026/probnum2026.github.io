@@ -12,8 +12,8 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 #### 9 September, 2026 (Wednesday)
 
-09&ndash;10: Registration & coffee
-10&ndash;11: **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
+09:00&ndash;10:00 Registration & coffee <br> 
+10:00&ndash;11:00 **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
 
 11&ndash;12: Opening & presentations
 
