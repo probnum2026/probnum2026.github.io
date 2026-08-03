@@ -1,6 +1,6 @@
 remote-theme: pages-themes/minimal@v0.2.0
 title: ProbNum 2026
-description: ProbNum 2026 is an international conference on Probabilistic Numerics, methods for statistically solving numerical problems (optimisation, integration, solving differential equations) and probabilistically quantifying the numerical errors as computational uncertainties. ProbNum 2026 will be held at the Lappeenranta campus of LUT University in Finland on 9–11 September 2026.
+description: ProbNum 2026 is an international conference on Probabilistic Numerics, methods for statistically solving numerical problems and probabilistically quantifying the numerical errors as computational uncertainties. ProbNum 2026 will be held at the Lappeenranta, Finland, on 9–11 September 2026.
 url: "https://probnum2026.github.io"
 logo: /LUT.jpg
 plugins:
