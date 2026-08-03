@@ -5,4 +5,3 @@ url: "https://probnum2026.github.io"
 logo: /LUT-preview.png
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-seo-tag
