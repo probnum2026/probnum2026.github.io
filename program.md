@@ -48,7 +48,7 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 11:00&ndash;12:00 **Plenary** by [Hong Ge](https://mlg.eng.cam.ac.uk/hong/) <br>
 12:00&ndash;12:15 **Conclusion of the main conference** <br>
 12:15&ndash;13:30 Lunch <br>
-13:30&ndash;15:00 Breakout sessions & coffee
+13:30&ndash;15:00 Breakout sessions & coffee <br>
 15:00&ndash;15:30 Coffee <br>
 15:30&ndash;17:00 Breakout sessions
 
