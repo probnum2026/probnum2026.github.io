@@ -13,10 +13,21 @@
     background-color: #28A8A8;
 }
 
+/* Schedule times. Monospace with tabular figures so every time is the same
+   width and the entries below line up in a column. */
+.time {
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+                 "Liberation Mono", monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: 0.9em;
+    letter-spacing: -0.01em;
+    color: #444;
+}
+
 /* Expandable abstracts that sit on the same line as the talk title.
-   The parent .day div is emitted with markdown="span" so kramdown does not
-   wrap these lines in <p> -- a <p> would be implicitly closed by <details>
-   and push the toggle onto its own line. */
+   The parent .day div carries no markdown= attribute, so kramdown leaves its
+   contents as raw HTML and does not wrap the lines in <p> -- a <p> would be
+   implicitly closed by <details> and push the toggle onto its own line. */
 details.abstract {
     display: inline;
 }
