@@ -12,3 +12,34 @@
 .navbar {
     background-color: #28A8A8;
 }
+
+/* Inline expandable abstracts: the toggle sits on the same line as the talk
+   title, the revealed body drops to its own block below. */
+details.abstract {
+    display: inline;
+}
+
+details.abstract > summary {
+    display: inline;
+    cursor: pointer;
+    list-style: none;
+    color: #28A8A8;
+}
+
+/* the native marker doesn't render on an inline summary, so supply one */
+details.abstract > summary::-webkit-details-marker {
+    display: none;
+}
+
+details.abstract > summary::before {
+    content: "\25B8\00A0";
+}
+
+details.abstract[open] > summary::before {
+    content: "\25BE\00A0";
+}
+
+details.abstract > p {
+    display: block;
+    margin: 0.5em 0 0.5em 1.5em;
+}
