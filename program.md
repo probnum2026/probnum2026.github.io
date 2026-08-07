@@ -13,11 +13,11 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 #### 9 September, 2026 (Wednesday)
 
 09:00&ndash;10:00 Registration & coffee <br> 
-10:00&ndash;11:00 **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) <br> 
+10:00&ndash;11:00 **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) (University of Tübingen)<br> 
 11:00&ndash;11:20 Break & conference opening <br>
 11:20&ndash;12:00 Presentations <br>
 12:00&ndash;13:00 Lunch <br>
-13:00&ndash;14:00 **Plenary** by [Elizaveta Semenova](https://www.elizaveta-semenova.com/) <br>
+13:00&ndash;14:00 **Plenary** by [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (Imperial College London) <br>
 14:00&ndash;14:40 Presentations <br>
 14:40&ndash;15:30 Coffee <br>
 15:30&ndash;17:00 Research speed dating <br>
@@ -31,12 +31,12 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 10:30&ndash;11:00 Coffee <br>
 11:00&ndash;12:00 Presentations <br>
 12:00&ndash;13:00 Lunch <br>
-13:00&ndash;14:00 **Plenary** by [Florian Schäfer](https://f-t-s.github.io/): Toward Information Geometric Mechanics
+13:00&ndash;14:00 **Plenary** by [Florian Schäfer](https://f-t-s.github.io/) (New York University): <i> Toward Information Geometric Mechanics </i>
 <details>
      <summary><em>Abstract</em></summary>
      <p> Shock waves in high-speed gas dynamics cause severe numerical difficulties for classical solvers and scientific machine learning. They are fundamentally a multiscale problem: While viscous effects ensure smoothness on microscopic scales, shocks manifest as macroscopic discontinuities. This talk begins with the observation that shock formation arises from the flow map reaching the boundary of the manifold of diffeomorphisms. We modify its geometry such that geodesics approach but never reach the boundary. The resulting information geometric regularization (IGR) has smooth solutions while avoiding the excessive dissipation of viscous regularizations, accelerating and simplifying the simulation of flows with shocks. We prove the existence of global strong IGR solutions in the unidimensional pressureless case and illustrate its practical utility on multidimensional examples with complex shock interactions. With S. Bryngelson and other collaborators, we use IGR to conduct the first compressible flow simulation exceeding a quadrillion degrees of freedom. The modified geometry of the diffeomorphism manifold is the information geometry of the mass density. The last part of the talk explains how this observation motivates information geometric mechanics that views the solutions of continuum mechanical PDEs as parameters of probability distributions originating from statistical physics. Replacing the Euclidean geometry of individual particles with the information geometry of statistical families promises performant numerical methods that preserve the positivity of densities and energies and readily integrate with scientific machine learning.
      </p>  
-     </details>
+</details>
 14:00&ndash;14:40 Presentations <br>
 14:40&ndash;15:30 Coffee <br>
 15:30&ndash;16:30 Presentations
@@ -47,10 +47,29 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 #### 11 September, 2026 (Friday)
 
-09:00&ndash;09:30 Tutorial by Tim Weiland (University of Tübingen): <i>Who Polluted the Harbor? A Live ProbNum Investigation </i> <br>
+09:00&ndash;09:30 Tutorial by Tim Weiland (University of Tübingen): <i>Who Polluted the Harbor? A Live ProbNum Investigation </i> 
+<details>
+     <summary><em>Abstract</em></summary>
+     <p> A pollutant is leaking somewhere in a harbor on the Korean coast. Six sensors report noisy
+ concentration readings. Where is the leak? In this hands-on session, we answer that
+ question live, building the full inference pipeline in Julia from scratch.</p>
+
+ <p>We start small: a GP prior, a 1D Poisson equation, and derivative kernels written out by
+ hand. Then we let the machinery take over: information operators turn PDEs, boundary
+ conditions, and sensor data into a single language of linear functionals;
+ Vecchia approximations replace dense kernel matrices with sparse precision matrices,
+ so the approach survives contact with real 2D geometry; and hierarchical modelling promotes
+ the unknown source location to a hyperparameter. The finale is fully Bayesian: a
+ nested-Laplace scheme computes posterior marginals for the leak location,
+ and we watch the posterior tighten as we add sensors to the bay.</p>
+
+ <p>The entire investigation runs in a notebook you can take home and point at your own inverse
+ problem.
+     </p>  
+</details>
 09:30&ndash;10:30 Presentations <br>
 10:30&ndash;11:00 Coffee <br>
-11:00&ndash;12:00 **Plenary** by [Hong Ge](https://mlg.eng.cam.ac.uk/hong/) <br>
+11:00&ndash;12:00 **Plenary** by [Hong Ge](https://mlg.eng.cam.ac.uk/hong/) (University of Cambridge) <br>
 12:00&ndash;12:15 **Conclusion of the main conference** <br>
 12:15&ndash;13:30 Lunch <br>
 13:30&ndash;15:00 Breakout sessions <br>
