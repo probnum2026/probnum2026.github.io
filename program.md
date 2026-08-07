@@ -6,22 +6,24 @@ header_image: LUT.jpg
 
 ## **Tentative programme**
 
-The conference will be held at the Lappeenranta Campus of LUT University ([Yliopistonkatu 34, 53850 Lappeenranta](https://maps.app.goo.gl/T1kWcn4ZjDgJbTr76)). 
+The conference will be held at the Lappeenranta Campus of LUT University (<a href="https://maps.app.goo.gl/T1kWcn4ZjDgJbTr76">Yliopistonkatu 34, 53850 Lappeenranta</a>). 
 
 ---
 
 #### 9 September, 2026 (Wednesday)
 
+<div class="day">
 09:00&ndash;10:00 Registration & coffee <br> 
-10:00&ndash;11:00 **ELLIS Distinguished Lecture** by [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) (University of Tübingen) <br> 
+10:00&ndash;11:00 <strong>ELLIS Distinguished Lecture</strong> by <a href="https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/">Philipp Hennig</a> (University of Tübingen) <br> 
 11:00&ndash;11:20 Break & conference opening <br>
-11:20&ndash;12:00 Presentations about [accepted papers](/papers)<br>
+11:20&ndash;12:00 Presentations about <a href="/papers">accepted papers</a><br>
 12:00&ndash;13:00 Lunch <br>
-13:00&ndash;14:00 **Plenary** by [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (Imperial College London) <br>
-14:00&ndash;14:40 Presentations about [accepted papers](/papers) <br>
+13:00&ndash;14:00 <strong>Plenary</strong> by <a href="https://www.elizaveta-semenova.com/">Elizaveta Semenova</a> (Imperial College London) <br>
+14:00&ndash;14:40 Presentations about <a href="/papers">accepted papers</a> <br>
 14:40&ndash;15:30 Coffee <br>
 15:30&ndash;17:00 Research speed dating <br>
 17:00&ndash;19:00 Poster session & ice breaker (posters will remain visible throughout the conference) <br>
+</div>
 
 ---
 
@@ -30,15 +32,15 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 <div class="day">
 09:00&ndash;10:30 Tutorial <br>
 10:30&ndash;11:00 Coffee <br>
-11:00&ndash;12:00 Presentations about [accepted papers](/papers) <br>
+11:00&ndash;12:00 Presentations about <a href="/papers">accepted papers</a> <br>
 12:00&ndash;13:00 Lunch <br>
 13:00&ndash;14:00 <strong>Plenary</strong> by <a href="https://f-t-s.github.io/">Florian Schäfer</a> (New York University): <i> Toward Information Geometric Mechanics </i> <details class="abstract"><summary>Abstract</summary><p> Shock waves in high-speed gas dynamics cause severe numerical difficulties for classical solvers and scientific machine learning. They are fundamentally a multiscale problem: While viscous effects ensure smoothness on microscopic scales, shocks manifest as macroscopic discontinuities. This talk begins with the observation that shock formation arises from the flow map reaching the boundary of the manifold of diffeomorphisms. We modify its geometry such that geodesics approach but never reach the boundary. The resulting information geometric regularization (IGR) has smooth solutions while avoiding the excessive dissipation of viscous regularizations, accelerating and simplifying the simulation of flows with shocks. We prove the existence of global strong IGR solutions in the unidimensional pressureless case and illustrate its practical utility on multidimensional examples with complex shock interactions. With S. Bryngelson and other collaborators, we use IGR to conduct the first compressible flow simulation exceeding a quadrillion degrees of freedom. The modified geometry of the diffeomorphism manifold is the information geometry of the mass density. The last part of the talk explains how this observation motivates information geometric mechanics that views the solutions of continuum mechanical PDEs as parameters of probability distributions originating from statistical physics. Replacing the Euclidean geometry of individual particles with the information geometry of statistical families promises performant numerical methods that preserve the positivity of densities and energies and readily integrate with scientific machine learning.</p></details>
-14:00&ndash;14:40 Presentations about [accepted papers](/papers) <br>
+14:00&ndash;14:40 Presentations about <a href="/papers">accepted papers</a> <br>
 14:40&ndash;15:30 Coffee <br>
-15:30&ndash;16:30 Presentations about [accepted papers](/papers)
+15:30&ndash;16:30 Presentations about <a href="/papers">accepted papers</a>
 </div>
 
-18:00&ndash;21:00 Conference dinner in the form of a cruise on lake Saimaa aboard [m/s Camilla](https://karelialines.fi/in-english/). The ship will depart from [Lappeenranta Harbour](https://maps.app.goo.gl/qQrcYJ5XQenHpBAW6).
+18:00&ndash;21:00 Conference dinner in the form of a cruise on lake Saimaa aboard <a href="https://karelialines.fi/in-english/">m/s Camilla</a>. The ship will depart from <a href="https://maps.app.goo.gl/qQrcYJ5XQenHpBAW6">Lappeenranta Harbour</a>.
 
 ---
 
@@ -46,7 +48,7 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 <div class="day">
 09:00&ndash;09:30 Tutorial by Tim Weiland (University of Tübingen): <i>Who Polluted the Harbor? A Live ProbNum Investigation </i> <details class="abstract"><summary>Abstract</summary><p>A pollutant is leaking somewhere in a harbor on the Korean coast. Six sensors report noisy concentration readings. Where is the leak? In this hands-on session, we answer that question live, building the full inference pipeline in Julia from scratch.</p><p>We start small: a GP prior, a 1D Poisson equation, and derivative kernels written out by hand. Then we let the machinery take over: information operators turn PDEs, boundary conditions, and sensor data into a single language of linear functionals; Vecchia approximations replace dense kernel matrices with sparse precision matrices, so the approach survives contact with real 2D geometry; and hierarchical modelling promotes the unknown source location to a hyperparameter. The finale is fully Bayesian: a nested-Laplace scheme computes posterior marginals for the leak location, and we watch the posterior tighten as we add sensors to the bay.</p><p>The entire investigation runs in a notebook you can take home and point at your own inverse problem.</p></details>
-09:30&ndash;10:30 Presentations about [accepted papers](/papers) <br>
+09:30&ndash;10:30 Presentations about <a href="/papers">accepted papers</a> <br>
 10:30&ndash;11:00 Coffee <br>
 11:00&ndash;12:00 <strong>Plenary</strong> by <a href="https://mlg.eng.cam.ac.uk/hong/">Hong Ge</a> (University of Cambridge) <br>
 12:00&ndash;12:15 <strong>Conclusion of the main conference</strong> <br>
@@ -60,7 +62,7 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 ## **Conference Dinner**
 
-The conference dinner will take the form of a cruise on lake Saimaa on the [m/s Camilla](https://karelialines.fi/in-english/) on the evening of 10th September. You must register for the dinner in advance.
+The conference dinner will take the form of a cruise on lake Saimaa on the <a href="https://karelialines.fi/in-english/">m/s Camilla</a> on the evening of 10th September. You must register for the dinner in advance.
 
 ---
 
@@ -68,7 +70,7 @@ The conference dinner will take the form of a cruise on lake Saimaa on the [m/s 
 
 There will be three plenaries delivered by Elizaveta Semenova, Florian Schäfer and Hong Ge.
 
-#### Plenary 1: [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (13:00&ndash;14:00 on 9 September)
+#### Plenary 1: <a href="https://www.elizaveta-semenova.com/">Elizaveta Semenova</a> (13:00&ndash;14:00 on 9 September)
 
 Elizaveta Semenova is a Lecturer in Biostatistics, Computational Epidemiology and Machine Learning at Imperial College London, Department of Epidemiology and Biostatistics. She also holds Schmidt Sciences AI2050 Early Career Fellowship. In 2019 she completed a PhD in Epidemiology at the Swiss TPH.
 
@@ -76,7 +78,7 @@ Her work is centered around scalable and flexible methods for spatiotemporal sta
 
 ---
 
-#### Plenary 2: [Florian Schäfer](https://f-t-s.github.io/) (13:00&ndash;14:00 on 10 September)
+#### Plenary 2: <a href="https://f-t-s.github.io/">Florian Schäfer</a> (13:00&ndash;14:00 on 10 September)
 
 Florian Schäfer is an Assistant Professor at the Courant Institute of Mathematical Sciences at New York University. He received his PhD in applied and computational mathematics at Caltech, working with Houman Owhadi. Before that, he received his Bachelor’s and Master’s degrees in Mathematics at the University of Bonn.
 
@@ -84,7 +86,7 @@ His research interests lie at the interface of numerical computation, statistica
 
 ---
 
-#### Plenary 3: [Hong Ge](https://mlg.eng.cam.ac.uk/hong/) (11:00&ndash;12:00 on 11 September)
+#### Plenary 3: <a href="https://mlg.eng.cam.ac.uk/hong/">Hong Ge</a> (11:00&ndash;12:00 on 11 September)
 
 
 Hong Ge is a Research Professor at the University of Cambridge, where he is a member of the Machine Learning Group, part of the Computational and Biological Learning Lab in the Department of Engineering.
@@ -93,9 +95,9 @@ Together with his colleagues and he explores how intelligence works - mathematic
 
 ---
 
-Before the start of the conference Philipp Hennig from the University of Tübingen will deliver an [ELLIS Distinguished Lecture](https://www.ellisinstitute.fi/ellis-distinguished-lectures). These lectures showcase cutting-edge artificial intelligence research from top scientists in the field. The lecture will be streamed.
+Before the start of the conference Philipp Hennig from the University of Tübingen will deliver an <a href="https://www.ellisinstitute.fi/ellis-distinguished-lectures">ELLIS Distinguished Lecture</a>. These lectures showcase cutting-edge artificial intelligence research from top scientists in the field. The lecture will be streamed.
 
-#### ELLIS Distinguished Lecture: [Philipp Hennig](http://mml.cs.uni-tuebingen.de/) (10:00&ndash;11:00 on 9 September)
+#### ELLIS Distinguished Lecture: <a href="http://mml.cs.uni-tuebingen.de/">Philipp Hennig</a> (10:00&ndash;11:00 on 9 September)
 
 Philipp Hennig is the Professor for the Methods of Machine Learning at the University of Tübingen, and Director of the Tübingen AI Center. Since his PhD with Sir David MacKay in Cambridge, he is interested in the connections between inference and computation, which led him to establish, with international collaborators, the field of probabilistic numerics. Hennig is a Fellow of ELLIS, where he co-directs the Research Program for Theory, Algorithms and Computations for modern learning machines. His work was supported, among others, by Emmy Noether and Max Planck Fellowships, and two ERC grants.
 
