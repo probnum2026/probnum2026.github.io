@@ -47,7 +47,7 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 #### 11 September, 2026 (Friday)
 
-09:00&ndash;09:30 Tutorial <br>
+09:00&ndash;09:30 Tutorial by Tim Weiland (University of Tübingen): <i>Who Polluted the Harbor? A Live ProbNum Investigation </i> <br>
 09:30&ndash;10:30 Presentations <br>
 10:30&ndash;11:00 Coffee <br>
 11:00&ndash;12:00 **Plenary** by [Hong Ge](https://mlg.eng.cam.ac.uk/hong/) <br>
