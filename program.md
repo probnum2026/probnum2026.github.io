@@ -47,7 +47,8 @@ The conference will be held at the Lappeenranta Campus of LUT University ([Yliop
 
 #### 11 September, 2026 (Friday)
 
-09:00&ndash;09:30 Tutorial by Tim Weiland (University of Tübingen): <i>Who Polluted the Harbor? A Live ProbNum Investigation </i> <details>
+09:00&ndash;09:30 Tutorial by Tim Weiland (University of Tübingen): <i>Who Polluted the Harbor? A Live ProbNum Investigation </i> 
+<details>
      <summary><em>Abstract</em></summary>
      <p> A pollutant is leaking somewhere in a harbor on the Korean coast. Six sensors report noisy
  concentration readings. Where is the leak? In this hands-on session, we answer that
