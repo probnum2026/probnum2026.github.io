@@ -12,3 +12,40 @@
 .navbar {
     background-color: #28A8A8;
 }
+
+/* Expandable abstracts that sit on the same line as the talk title.
+   The parent .day div is emitted with markdown="span" so kramdown does not
+   wrap these lines in <p> -- a <p> would be implicitly closed by <details>
+   and push the toggle onto its own line. */
+details.abstract {
+    display: inline;
+}
+
+details.abstract > summary {
+    display: inline;
+    cursor: pointer;
+    list-style: none;
+    color: #28A8A8;
+}
+
+/* the native disclosure marker does not render on an inline summary */
+details.abstract > summary::-webkit-details-marker {
+    display: none;
+}
+
+details.abstract > summary::before {
+    content: "[";
+}
+
+details.abstract > summary::after {
+    content: "]";
+}
+
+details.abstract > summary:hover {
+    text-decoration: underline;
+}
+
+details.abstract > p {
+    display: block;
+    margin: 0.4em 0 0.4em 2em;
+}
