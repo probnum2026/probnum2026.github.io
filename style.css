@@ -24,7 +24,7 @@
 
    The width of the time column is a single knob, --time-col. */
 .day {
-    --time-col: 7.5rem;
+    --time-col: 4rem;
 }
 
 .day > .entry {
@@ -46,7 +46,7 @@
    underneath the time. */
 @media (max-width: 576px) {
     .day {
-        --time-col: 5.75rem;
+        --time-col: 3.25rem;
     }
 
     .day > .entry > .time {
