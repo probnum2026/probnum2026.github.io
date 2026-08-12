@@ -24,7 +24,7 @@
 
    The width of the time column is a single knob, --time-col. */
 .day {
-    --time-col: 4rem;
+    --time-col: 2rem;
 }
 
 .day > .entry {
