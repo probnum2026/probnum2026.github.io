@@ -20,18 +20,38 @@
 
    A hanging indent is used rather than a two-column grid because a grid would
    require the time and the entry to survive as sibling grid items, which the
-   generated wrappers around block HTML cannot be relied on to preserve. */
+   generated wrappers around block HTML cannot be relied on to preserve.
+
+   The width of the time column is a single knob, --time-col. */
+.day {
+    --time-col: 7.5rem;
+}
+
 .day > .entry {
-    padding-left: 7.5rem;
-    text-indent: -7.5rem;
+    padding-left: var(--time-col);
+    text-indent: calc(-1 * var(--time-col));
     margin-bottom: 0.4em;
+    /* long unbroken strings wrap inside the column rather than overflowing it */
+    overflow-wrap: break-word;
 }
 
 .day > .entry > .time {
     display: inline-block;
-    width: 7.5rem;
+    width: var(--time-col);
     text-indent: 0;
     white-space: nowrap;
+}
+
+/* Narrow screens: shrink the column rather than letting the entry stack
+   underneath the time. */
+@media (max-width: 576px) {
+    .day {
+        --time-col: 5.75rem;
+    }
+
+    .day > .entry > .time {
+        font-size: 0.8em;
+    }
 }
 
 /* Schedule times. Monospace with tabular figures so every time is the same
