@@ -27,7 +27,7 @@
    before the entry text; setting --time-col below that would let the entry
    text overlap the time, which min-width on .time guards against. */
 .day {
-    --time-col: 3.9rem;
+    --time-col: 4.2rem;
 }
 
 .day > .entry {
