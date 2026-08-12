@@ -13,18 +13,24 @@
     background-color: #28A8A8;
 }
 
-/* Schedule days are laid out as a two-column grid: the time sits in its own
-   narrow column and the entry beside it, so wrapped lines and expanded
-   abstracts stay aligned under the entry rather than under the time. */
-.day {
-    display: grid;
-    grid-template-columns: max-content 1fr;
-    column-gap: 1em;
-    row-gap: 0.4em;
-    align-items: baseline;
+/* Each schedule row is one .entry block with a hanging indent: the time is an
+   inline-block of fixed width acting as the row's "number", and the negative
+   text-indent pulls it back into the left margin so wrapped lines and expanded
+   abstracts align under the entry text rather than under the time.
+
+   A hanging indent is used rather than a two-column grid because a grid would
+   require the time and the entry to survive as sibling grid items, which the
+   generated wrappers around block HTML cannot be relied on to preserve. */
+.day > .entry {
+    padding-left: 7.5rem;
+    text-indent: -7.5rem;
+    margin-bottom: 0.4em;
 }
 
-.day > .time {
+.day > .entry > .time {
+    display: inline-block;
+    width: 7.5rem;
+    text-indent: 0;
     white-space: nowrap;
 }
 
@@ -74,6 +80,7 @@ details.abstract > summary:hover {
 details.abstract > p {
     display: block;
     margin: 0.4em 0 0.4em 1em;
+    text-indent: 0; /* do not inherit the hanging indent of the schedule row */
 }
 
 /* Accepted-paper list. Raw HTML rather than a markdown list so that kramdown
