@@ -75,3 +75,10 @@ details.abstract > p {
     display: block;
     margin: 0.4em 0 0.4em 1em;
 }
+
+/* Accepted-paper list. Raw HTML rather than a markdown list so that kramdown
+   does not wrap each item in a <p>, which the browser would implicitly close
+   at the <details> and push the toggle onto its own line. */
+ul.papers > li {
+    margin-bottom: 0.5em;
+}
