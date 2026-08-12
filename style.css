@@ -27,13 +27,13 @@
    before the entry text; setting --time-col below that would let the entry
    text overlap the time, which min-width on .time guards against. */
 .day {
-    --time-col: 3.1rem;
+    --time-col: 3.5rem;
 }
 
 .day > .entry {
     padding-left: var(--time-col);
     text-indent: calc(-1 * var(--time-col));
-    margin-bottom: 0.4em;
+    margin-bottom: 0.1em;
     /* long unbroken strings wrap inside the column rather than overflowing it */
     overflow-wrap: break-word;
 }
