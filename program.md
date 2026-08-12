@@ -24,7 +24,7 @@ The conference will be held at the Lappeenranta Campus of LUT University (<a hre
 <div class="entry"><span class="time">14:20</span><i>Probabilistic Numerics for Hamiltonian Dynamics</i> <details class="abstract"><summary>Abstract</summary><p>Many ordinary differential equations (ODEs) encountered in science originate from physical principles that contain substantially more structure than the ODE alone. In particular, Hamiltonian systems arise from variational principles, possess a symplectic structure, and exhibit conservation laws induced by symmetries. Standard probabilistic ODE solvers, that typically condition on the residual of the ODE, can overlook this additional physical information. In this paper, we focus on Hamiltonian dynamics, we revisit variational integrators and propose a probabilistic-numerical extension, based on a physics-informed prior. Furthermore, we discuss the symmetry-based Bayesian ODE framework of Wang et al. (2020), clarifying the role of integrability in Hamiltonian systems and the related Lie-algebra structure in defining Bayesian formulations.</p></details></div>
 <div class="entry"><span class="time">14:40</span>Coffee</div>
 <div class="entry"><span class="time">15:30</span>Research speed dating</div>
-<div class="entry"><span class="time">17:00</span>Poster session & ice breaker (posters will remain visible throughout the conference)</div>
+<div class="entry"><span class="time">17:00</span><strong>Poster session & ice breaker </strong> (posters will remain visible throughout the conference)</div>
 <div class="entry"><span class="time">19:00</span>Conclusion</div>
 </div>
 
