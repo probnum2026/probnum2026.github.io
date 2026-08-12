@@ -33,7 +33,7 @@
 .day > .entry {
     padding-left: var(--time-col);
     text-indent: calc(-1 * var(--time-col));
-    margin-bottom: 0.1em;
+    margin-bottom: 0.0em;
     /* long unbroken strings wrap inside the column rather than overflowing it */
     overflow-wrap: break-word;
 }
