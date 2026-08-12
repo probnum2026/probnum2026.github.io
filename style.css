@@ -22,9 +22,12 @@
    require the time and the entry to survive as sibling grid items, which the
    generated wrappers around block HTML cannot be relied on to preserve.
 
-   The width of the time column is a single knob, --time-col. */
+   The width of the time column is a single knob, --time-col. "09:00" renders
+   at roughly 2.7rem in the 0.9em monospace below, so the remainder is the gap
+   before the entry text; setting --time-col below that would let the entry
+   text overlap the time, which min-width on .time guards against. */
 .day {
-    --time-col: 2rem;
+    --time-col: 3.1rem;
 }
 
 .day > .entry {
@@ -37,7 +40,9 @@
 
 .day > .entry > .time {
     display: inline-block;
-    width: var(--time-col);
+    /* min-width rather than width: if the time renders wider than expected in
+       some fallback font it pushes the text across instead of underlapping it */
+    min-width: var(--time-col);
     text-indent: 0;
     white-space: nowrap;
 }
@@ -46,7 +51,7 @@
    underneath the time. */
 @media (max-width: 576px) {
     .day {
-        --time-col: 3.25rem;
+        --time-col: 2.8rem;
     }
 
     .day > .entry > .time {
@@ -107,5 +112,5 @@ details.abstract > p {
    does not wrap each item in a <p>, which the browser would implicitly close
    at the <details> and push the toggle onto its own line. */
 ul.papers > li {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.1em;
 }
