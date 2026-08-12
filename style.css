@@ -27,7 +27,7 @@
    before the entry text; setting --time-col below that would let the entry
    text overlap the time, which min-width on .time guards against. */
 .day {
-    --time-col: 5.2rem;
+    --time-col: 6rem;
 }
 
 .day > .entry {
@@ -51,7 +51,7 @@
    underneath the time. */
 @media (max-width: 576px) {
     .day {
-        --time-col: 2.8rem;
+        --time-col: 4rem;
     }
 
     .day > .entry > .time {
