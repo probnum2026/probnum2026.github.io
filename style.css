@@ -23,7 +23,7 @@
    generated wrappers around block HTML cannot be relied on to preserve.
 
    The width of the time column is a single knob, --time-col. "09:00" renders
-   at roughly 2.7rem in the 0.9em monospace below, so the remainder is the gap
+   at roughly 2.2rem in the body font at 0.9em, so the remainder is the gap
    before the entry text; setting --time-col below that would let the entry
    text overlap the time, which min-width on .time guards against. */
 .day {
@@ -59,14 +59,11 @@
     }
 }
 
-/* Schedule times. Monospace with tabular figures so every time is the same
-   width and the entries below line up in a column. */
+/* Schedule times. Tabular figures so every digit is the same width and the
+   times stay aligned with one another. */
 .time {
-    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
-                 "Liberation Mono", monospace;
     font-variant-numeric: tabular-nums;
     font-size: 0.9em;
-    letter-spacing: -0.01em;
     color: #444;
 }
 
