@@ -67,7 +67,7 @@ The conference will be held at the Lappeenranta Campus of LUT University (<a hre
 <div class="entry"><span class="time">13:30</span>Breakout sessions</div>
 <div class="entry"><span class="time">15:00</span>Coffee</div>
 <div class="entry"><span class="time">15:30</span>Breakout sessions</div>
-<div class="entry"><span class="time">17:00</span><strong>Conclusion of breakout sessions</strong></div>
+<div class="entry"><span class="time">17:00</span><strong>Conclusion</strong></div>
 </div>
 
 --- 
