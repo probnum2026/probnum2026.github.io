@@ -13,6 +13,21 @@
     background-color: #28A8A8;
 }
 
+/* Schedule days are laid out as a two-column grid: the time sits in its own
+   narrow column and the entry beside it, so wrapped lines and expanded
+   abstracts stay aligned under the entry rather than under the time. */
+.day {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    column-gap: 1em;
+    row-gap: 0.4em;
+    align-items: baseline;
+}
+
+.day > .time {
+    white-space: nowrap;
+}
+
 /* Schedule times. Monospace with tabular figures so every time is the same
    width and the entries below line up in a column. */
 .time {
@@ -58,5 +73,5 @@ details.abstract > summary:hover {
 
 details.abstract > p {
     display: block;
-    margin: 0.4em 0 0.4em 2em;
+    margin: 0.4em 0 0.4em 1em;
 }
