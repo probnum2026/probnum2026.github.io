@@ -36,7 +36,7 @@
     margin-bottom: 0.05em;
     /* long unbroken strings wrap inside the column rather than overflowing it */
     overflow-wrap: break-word;
-    background-color: green;
+    background-color: #28A8A8;
 }
 
 .day > .entry > .time {
@@ -46,6 +46,7 @@
     min-width: var(--time-col);
     text-indent: 0;
     white-space: nowrap;
+    background-color: #28A8A8;
 }
 
 /* Narrow screens: shrink the column rather than letting the entry stack
