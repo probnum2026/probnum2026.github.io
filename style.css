@@ -30,7 +30,11 @@
     --time-col: 5rem;
 }
 
-.day > .entry {
+.day > .session {
+    background-color: #28A8A8;
+}
+
+.day > .session > .entry {
     padding-left: var(--time-col);
     text-indent: calc(-1 * var(--time-col));
     margin-bottom: 0.05em;
@@ -38,17 +42,13 @@
     overflow-wrap: break-word;
 }
 
-.day > .entry > .time {
+.day > .session > .entry > .time {
     display: inline-block;
     /* min-width rather than width: if the time renders wider than expected in
        some fallback font it pushes the text across instead of underlapping it */
     min-width: var(--time-col);
     text-indent: 0;
     white-space: nowrap;
-}
-
-.day > .session {
-    background-color: #28A8A8;
 }
 
 /* Narrow screens: shrink the column rather than letting the entry stack
