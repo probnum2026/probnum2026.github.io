@@ -30,14 +30,6 @@
     --time-col: 5rem;
 }
 
-/* A .session groups consecutive entries under a shared background. It adds no
-   margin, padding or border of its own, so the entries it wraps sit on exactly
-   the same vertical rhythm and left edge as the entries directly under .day --
-   the group is purely a colour band behind rows that are otherwise identical. */
-.day > .session {
-    background-color: #28A8A8;
-}
-
 /* Descendant, not child, selectors: entries are styled the same whether they
    sit directly under .day or inside a .session grouping. */
 .day .entry {
@@ -103,12 +95,6 @@ details.abstract > summary::before {
 
 details.abstract > summary::after {
     content: "]";
-}
-
-/* inside a session the default toggle colour is the band's own colour, so it
-   would be invisible; white keeps it legible against the band */
-.day > .session details.abstract > summary {
-    color: #fff;
 }
 
 details.abstract > summary:hover {
