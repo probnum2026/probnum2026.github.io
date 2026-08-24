@@ -21,9 +21,8 @@ ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](h
 
 --- 
 
-#### Call for Papers
-- ProbNum 2026 calls for papers that will be published as **Proceedings of Machine Learning Research (PMLR)**.
-- See [submission instructions](/submissions).
+#### Proceedings
+- See the PMLR proceedings of ProbNum 2026 [here](https://proceedings.mlr.press/v341/).
 - See the PMLR proceedings of ProbNum 2025 [here](https://proceedings.mlr.press/v271/).
 
 <!-- #### Submissions Live!
