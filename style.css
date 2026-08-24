@@ -122,7 +122,7 @@ ul.papers > li {
    background elsewhere. */
 .day .entry.session,
 .day .entry.session > .time {
-    background-color: #ccdddd;
+    background-color: #e6eded;
 }
 
 /* The 0.05em margin between rows falls outside the background box, so two
