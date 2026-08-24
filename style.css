@@ -120,16 +120,16 @@ ul.papers > li {
    the time carries the same background as the rest of the row. It is repeated
    on .time only to keep the two in sync if .time is ever given its own
    background elsewhere. */
-.day .entry.highlight,
-.day .entry.highlight > .time {
-    background-color: #d9f0f0;
+.day .entry.session,
+.day .entry.session > .time {
+    background-color: #ccdddd;
 }
 
 /* The 0.05em margin between rows falls outside the background box, so two
    adjacent highlighted rows would be separated by a white sliver. Convert the
    gap to padding on highlighted rows: the row spacing is unchanged, but the
    space is now inside the painted box and the backgrounds meet. */
-.day .entry.highlight {
+.day .entry.session {
     margin-bottom: 0;
     padding-bottom: 0.05em;
 }
