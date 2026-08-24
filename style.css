@@ -113,3 +113,14 @@ details.abstract > p {
 ul.papers > li {
     margin-bottom: 0.1em;
 }
+
+/* Highlighted schedule rows. The background is painted on the whole .entry
+   block, which includes the left padding the time sits in (the negative
+   text-indent pulls the time back into that padding, not outside the box), so
+   the time carries the same background as the rest of the row. It is repeated
+   on .time only to keep the two in sync if .time is ever given its own
+   background elsewhere. */
+.day .entry.highlight,
+.day .entry.highlight > .time {
+    background-color: #d9f0f0;
+}
