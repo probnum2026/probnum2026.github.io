@@ -12,12 +12,9 @@ header_image: LUT.jpg
 ProbNum 2026 welcomes researchers and practitioners interested in methods, theory and applications of Probabilistic Numerics for an open exchange of ideas.
 
 --- 
-#### Venue, Dates and Registration
+#### Venue and Dates
 
 ProbNum 2026 will be held at the **Lappeenranta** campus of **[LUT University](https://www.lut.fi/en)** on **9&ndash;11 September 2026**. 
-
-- **Registration is now open**. [Register here by 26th August.](/registration)
-- **All participants are welcome to submit a poster.** [Submit a poster here.](/registration)
 
 --- 
 
