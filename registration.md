@@ -18,13 +18,13 @@ Registration can be paid by a credit card (Visa, Master Card). Invoicing the fee
  
 Cancellations with full reimbursement are accepted until 9th August 2026. For cancellations submitted between 10th August 2026 and 19th August 2026, a 50% refund will be issued. No refunds will be granted for cancellations made after 19th August 2026. Please contact [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) for cancellations and any questions about registration.
 
-[<p style="color:red;">**Registration is closed.**</p>]
+[<p style="color:red;"><b>**Registration is closed.**</b></p>]
 
 ## Poster submission
  
 All participants are welcome to submit a poster. Posters will be presented on the evening of 9th September and will remain in the coffee break area through the entire conference. Please submit your poster by 26th August. The program chairs may invite select posters to be presented as talks.
 
-[<p style="color:red;">**Poster submission is closed.**</p>]
+[<p style="color:red;"><b>Poster submission is closed.</b></p>]
 
 --- 
 
