@@ -17,14 +17,14 @@ Registration for ProbNum 2026 is open. Registration closes on 26th August 2026.
 Registration can be paid by a credit card (Visa, Master Card). Invoicing the fee is not possible.
  
 Cancellations with full reimbursement are accepted until 9th August 2026. For cancellations submitted between 10th August 2026 and 19th August 2026, a 50% refund will be issued. No refunds will be granted for cancellations made after 19th August 2026. Please contact [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) for cancellations and any questions about registration.
- 
-[**Register here.**](https://www.lyyti.in/ProbNum_2026_The_2nd_International_Conference_on_Probabilistic_Numerics_7802)
+
+[**<p style="color:red;">Registration is closed.</p>**]
 
 ## Poster submission
  
 All participants are welcome to submit a poster. Posters will be presented on the evening of 9th September and will remain in the coffee break area through the entire conference. Please submit your poster by 26th August. The program chairs may invite select posters to be presented as talks.
 
-[**Submit your poster here.**](https://forms.gle/x2pSyhUeH7NzpGfs9)
+[**<p style="color:red;">Poster submission is closed.</p>**]
 
 --- 
 
