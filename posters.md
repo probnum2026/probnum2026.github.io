@@ -6,7 +6,7 @@ header_image: LUT.jpg
 
 ## **Posters**
 
-In addition to the [accepted papers](/papers), the following posters will be presented at the conference.
+In addition to the [accepted papers](/papers), the following posters will be presented at the conference. The poster session will take place from 17:00 to 19:00 on Wednesday, 9 September.
 
 <ul class="papers">
 <li>Nathanael Bosch: <em>Stable and Scalable Probabilistic Numerical Solvers for Stiff and High-Dimensional ODEs</em> <details class="abstract"><summary>Abstract</summary><p>Filtering-based probabilistic numerical solvers for ordinary differential equations (ODEs) have been established as a flexible and efficient simulation framework with built-in numerical uncertainty quantification. However, problems that are both stiff and high-dimensional remain a challenge, as current methods are either stable and have cubic cost in the ODE dimension, or scale linearly at the expense of stability. In this paper, we close this gap and develop probabilistic ODE solvers that are both stable and scalable. We propose two complementary strategies. First, we develop a matrix-free update step that uses Jacobian-vector products, iterative linear solvers, and stochastic covariance estimation to enable linear scaling, all while retaining stability. Second, we propose iterative re-linearization to further improve stability without sacrificing scalability, turning probabilistic ODE solvers into fully implicit methods. We evaluate the proposed approaches on a range of stiff and high-dimensional problems and demonstrate improved stability and scalability over established probabilistic solvers.</p></details></li>
