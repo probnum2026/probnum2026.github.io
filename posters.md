@@ -6,7 +6,7 @@ header_image: LUT.jpg
 
 ## **Posters**
 
-In addition to the [accepted papers](/papers), the following posters will be presented at the conference.
+In addition to the [accepted papers](/papers), the following posters will be presented at the conference. The poster session will take place from 17:00 to 19:00 on Wednesday, 9 September.
 
 <ul class="papers">
 <li>Herilalaina Rakotoarison: <em>$\alpha$-PFN: Fast Entropy Search via In-Context Learning</em> <details class="abstract"><summary>Abstract</summary><p>Information‐theoretic acquisition functions such as Entropy Search (ES) offer a principled exploration–exploitation framework for Bayesian optimization (BO). However, their practical implementation relies on complicated and slow approximations, i.e., a Monte Carlo estimation of the information gain. This complexity can introduce numerical errors and requires specialized, hand-crafted implementations. We propose a two‐stage amortization strategy that learns to approximate entropy search-based acquisition functions using Prior‐data Fitted Networks (PFNs) in a single forward pass. A first PFN is trained to be conditioned on information about the optima; second, the $\alpha$‐PFN is trained to predict the expected information gain by training on information gains measured with the first PFN. The $\alpha$-PFN offers a flexible learned approximation, which replaces the complex heuristic approximations with a single forward pass per candidate, enabling rapid and extensible acquisition evaluation. Empirically, our approach is competitive with state‐of‐the‐art entropy search implementations on synthetic and real‐world benchmarks, while accelerating the different entropy search variants across all our experiments, with speed ups over 50x.</p></details></li>
