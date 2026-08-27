@@ -18,7 +18,7 @@ Registration can be paid by a credit card (Visa, Master Card). Invoicing the fee
  
 Cancellations with full reimbursement are accepted until 9th August 2026. For cancellations submitted between 10th August 2026 and 19th August 2026, a 50% refund will be issued. No refunds will be granted for cancellations made after 19th August 2026. Please contact [toni.karvonen@lut.fi](mailto:toni.karvonen@lut.fi) for cancellations and any questions about registration.
 
-[<b style='color:red;'>**Registration is closed.**</b>]
+[<b style='color:red;'>Registration is closed.</b>]
 
 ## Poster submission
  
