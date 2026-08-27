@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ProbNum 2026 &ndash; Registration & posters"
+title: "ProbNum 2026 &ndash; Registration"
 header_image: LUT.jpg
 ---
 
