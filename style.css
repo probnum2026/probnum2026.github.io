@@ -107,6 +107,20 @@ details.abstract > p {
     text-indent: 0; /* do not inherit the hanging indent of the schedule row */
 }
 
+/* Poster list inside a schedule entry's disclosure. Same block treatment as an
+   abstract paragraph, plus padding for the bullets, which would otherwise sit
+   outside the list's box and under the entry text. */
+details.abstract > ul.posterlist {
+    display: block;
+    margin: 0.4em 0 0.4em 1em;
+    padding-left: 1em;
+    text-indent: 0;
+}
+
+details.abstract > ul.posterlist > li {
+    margin-bottom: 0.1em;
+}
+
 /* Accepted-paper list. Raw HTML rather than a markdown list so that kramdown
    does not wrap each item in a <p>, which the browser would implicitly close
    at the <details> and push the toggle onto its own line. */
