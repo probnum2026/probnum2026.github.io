@@ -24,6 +24,8 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 - The conference will take place at the Lappeenranta Campus of LUT University (Yliopistonkatu 34), about 7 km from central Lappeenranta where most hotels are located.
 - **Bus line 5** operates between the railway station, city center and the campus. The ride from city center takes about 20 minutes. A single ticket costs &#8364;3.60. Tickets can be bought onboard with cash or card. [[Public Transport in Lappeenranta](https://lappeenranta.fi/en/public-transport)] [[Journey Planner](https://lappeenranta.digitransit.fi/?locale=en)]
 
+---
+
 ### How to navigate the conference venue
 
 - All talks will take place in <b>lecture hall 2310</b>. 
