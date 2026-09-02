@@ -14,7 +14,7 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 ### How to reach Lappeenranta
 
 - In most cases you should fly to **Helsinki Airport** and take a train from the airport to Lappeenranta. The train ride takes about 2 hours and involves a change from a local train to an intercity train in Tikkurila near Helsinki Airport.
-- You must have a seat reservation. Book your tickets from Helsinki Airport to Lappeenranta at [VR.fi](https://www.vr.fi/en/single-ticket-outbound-search-results?from=LEN&to=LR).
+- You must have a seat reservation. Book your tickets from Helsinki Airport to Lappeenranta before boarding the train at [VR.fi](https://www.vr.fi/en/single-ticket-outbound-search-results?from=LEN&to=LR).
 - To reach the intercity transfer station in Tikkurila you should catch the local P train at the Helsinki Airport Station (Lentoasema). If you have not bought a ticket all the way from the airport to Lappeenranta, you need a local BC or CD ticket to reach Tikkurila. See [HSL.fi](https://reittiopas.hsl.fi/etusivu?locale=en) for more information.
 
 ---
@@ -22,7 +22,8 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 ### How to reach the conference venue
 
 - The conference will take place at the Lappeenranta Campus of LUT University (Yliopistonkatu 34), about 7 km from central Lappeenranta where most hotels are located.
-- **Bus line 5** operates between the railway station, city center and the campus. The ride from city center takes about 20 minutes. A single ticket costs &#8364;3.60. Tickets can be bought onboard with cash or card. [[Public Transport in Lappeenranta](https://lappeenranta.fi/en/public-transport)] [[Journey Planner](https://lappeenranta.digitransit.fi/?locale=en)]
+- **Bus line 5** operates between the railway station (<i>Matkakeskus</i>), city center (<i>Keskusta</i>) and the campus (<i>Yliopisto</i>. If you hop in to the bus from city centre, please use the bus stop <i>Keskusta L</i> on Koulukatu, near the shopping center Armada. The ride from city center takes about 20 minutes, and from the railway station about 30 minutes. A single ticket costs &#8364;3.60. Tickets can be bought onboard with cash or card. [[Public Transport in Lappeenranta](https://lappeenranta.fi/en/public-transport)] [[Journey Planner](https://lappeenranta.digitransit.fi/?locale=en)]
+- The walk from the railway station to city center takes about 20 minutes.
 
 ---
 
@@ -31,7 +32,7 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 - All talks will take place in <b>lecture hall 2310</b>. 
 - Coffee breaks, ice breaker and the poster session take place nearby on the same floor. 
 - Lunch is server in Restaurant Skinnarila in a connected building of LAB University of Applied Sciences.
-- On the morning of 9 September the registration desk will be located next to the main entrance. Those arriving later may pick up their name tags from a desk next to lecture hall 2310.
+- On the morning of 9 September the registration desk ((marked <i>i</i> on the map) will be located next to the main entrance. Those arriving later may pick up their name tags from a desk located at the crossroad of Street Cafe in 3rd floor.
 - We have a dedicated <b>WiFi network <i>ProbNum26</i></b>. No password is needed.
 
 
