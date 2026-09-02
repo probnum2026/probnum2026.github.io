@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ProbNum 2026 &ndash; Venue "
+title: "ProbNum 2026 &ndash; Venue &amp; Practical Information"
 header_image: LUT.jpg
 ---
 ## **Venue**
