@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ProbNum 2026 &ndash; Venue"
+title: "ProbNum 2026 &ndash; Venue "
 header_image: LUT.jpg
 ---
 ## **Venue**
@@ -8,10 +8,6 @@ header_image: LUT.jpg
 ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Yliopistonkatu 34, 53850 Lappeenranta). The campus is situated in Lappeenranta in Eastern Finland by Lake Saimaa.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1930.342321661942!2d28.09175831348225!3d61.064999070797384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x469094f4435a9599%3A0x133e1ee3dcc2a5cd!2sLUT-yliopisto%2C%20Lappeenrannan%20kampus!5e0!3m2!1sfi!2sfi!4v1782300236184!5m2!1sfi!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-
-### Practical information
-
- <img src="maps.png" alt="LUT University maps" style="width:600px"> 
 
 ---
 
@@ -27,6 +23,16 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 
 - The conference will take place at the Lappeenranta Campus of LUT University (Yliopistonkatu 34), about 7 km from central Lappeenranta where most hotels are located.
 - **Bus line 5** operates between the railway station, city center and the campus. The ride from city center takes about 20 minutes. A single ticket costs &#8364;3.60. Tickets can be bought onboard with cash or card. [[Public Transport in Lappeenranta](https://lappeenranta.fi/en/public-transport)] [[Journey Planner](https://lappeenranta.digitransit.fi/?locale=en)]
+
+### How to navigate the conference venue
+
+- All talks will take place in <b>lecture hall 2310</b>. 
+- Coffee breaks, ice breaker and the poster session take place nearby on the same floor. 
+- Lunch is server in Restaurant Skinnarila in a connected building of LAB University of Applied Sciences.
+- On the morning of 9 September the registration desk will be located next to the main entrance. Those arriving later may pick up their name tags from a desk next to lecture hall 2310.
+
+
+ <img src="maps.png" alt="LUT University maps" style="width:600px"> 
 
 ---
 
