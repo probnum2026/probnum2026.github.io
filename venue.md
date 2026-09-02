@@ -32,6 +32,7 @@ ProbNum 2026 will take place at the **Lappeenranta Campus of LUT University** (Y
 - Coffee breaks, ice breaker and the poster session take place nearby on the same floor. 
 - Lunch is server in Restaurant Skinnarila in a connected building of LAB University of Applied Sciences.
 - On the morning of 9 September the registration desk will be located next to the main entrance. Those arriving later may pick up their name tags from a desk next to lecture hall 2310.
+- We have a dedicated <b>WiFi network <i>ProbNum26</i></b>. No password is needed.
 
 
  <img src="maps.png" alt="LUT University maps" style="width:600px"> 
