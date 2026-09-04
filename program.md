@@ -6,7 +6,7 @@ header_image: LUT.jpg
 
 ## **Programme**
 
-The conference will be held at the Lappeenranta Campus of LUT University (<a href="https://maps.app.goo.gl/T1kWcn4ZjDgJbTr76">Yliopistonkatu 34, 53850 Lappeenranta</a>). 
+The conference will be held at the Lappeenranta Campus of LUT University (<a href="https://maps.app.goo.gl/T1kWcn4ZjDgJbTr76">Yliopistonkatu 34, 53850 Lappeenranta</a>). All talks will take place in <b>lecture hall 2310</b>. See [Venue &amp; Practical Information](/venue) for information on navigating the venue.
 
 ---
 
